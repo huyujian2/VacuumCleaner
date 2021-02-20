@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "477bfef7-0052-43a1-98d2-51bf90520a83",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "477bfef7-0052-43a1-98d2-51bf90520a83@6c48a",
+      "displayName": "floor-tile",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "477bfef7-0052-43a1-98d2-51bf90520a83"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "477bfef7-0052-43a1-98d2-51bf90520a83@6c48a"
+  }
+}

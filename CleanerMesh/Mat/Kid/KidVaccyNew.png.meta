@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "804d6155-3b07-494e-988a-ebf1e2f267ee",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "804d6155-3b07-494e-988a-ebf1e2f267ee@6c48a",
+      "displayName": "KidVaccyNew",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "804d6155-3b07-494e-988a-ebf1e2f267ee"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "804d6155-3b07-494e-988a-ebf1e2f267ee@6c48a"
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "ver": "1.3.21",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452",
+  "files": [],
+  "subMetas": {
+    "50530": {
+      "importer": "gltf-mesh",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@50530",
+      "displayName": "",
+      "id": "50530",
+      "name": "Env_Planter (1).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 8
+      }
+    },
+    "59604": {
+      "importer": "gltf-mesh",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@59604",
+      "displayName": "",
+      "id": "59604",
+      "name": "Prop_Tree_02 (2).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "97011": {
+      "importer": "texture",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@97011",
+      "displayName": "",
+      "id": "97011",
+      "name": "Residential_SimpleTown.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@63c1a"
+      }
+    },
+    "8edb0": {
+      "importer": "gltf-mesh",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@8edb0",
+      "displayName": "",
+      "id": "8edb0",
+      "name": "path_straight_mesh (4).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "847af": {
+      "importer": "gltf-mesh",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@847af",
+      "displayName": "",
+      "id": "847af",
+      "name": "path_straight_mesh (3).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "03d0d": {
+      "importer": "gltf-mesh",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@03d0d",
+      "displayName": "",
+      "id": "03d0d",
+      "name": "path_straight_mesh (2).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "b28fb": {
+      "importer": "gltf-mesh",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@b28fb",
+      "displayName": "",
+      "id": "b28fb",
+      "name": "path_straight_mesh (1).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "6a1eb": {
+      "importer": "gltf-mesh",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@6a1eb",
+      "displayName": "",
+      "id": "6a1eb",
+      "name": "path_straight_mesh.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "1b5d4": {
+      "importer": "gltf-mesh",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@1b5d4",
+      "displayName": "",
+      "id": "1b5d4",
+      "name": "Prop_Tree_02 (1).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      }
+    },
+    "273e0": {
+      "importer": "gltf-mesh",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@273e0",
+      "displayName": "",
+      "id": "273e0",
+      "name": "Prop_Tree_02.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 7
+      }
+    },
+    "52e54": {
+      "importer": "gltf-mesh",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@52e54",
+      "displayName": "",
+      "id": "52e54",
+      "name": "Env_Planter.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 9
+      }
+    },
+    "0ac39": {
+      "importer": "gltf-mesh",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@0ac39",
+      "displayName": "",
+      "id": "0ac39",
+      "name": "Building_House_04.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 10
+      }
+    },
+    "b76c1": {
+      "importer": "gltf-mesh",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@b76c1",
+      "displayName": "",
+      "id": "b76c1",
+      "name": "Building_House_013.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 11
+      }
+    },
+    "9a83e": {
+      "importer": "gltf-mesh",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@9a83e",
+      "displayName": "",
+      "id": "9a83e",
+      "name": "Building_House_011.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 12
+      }
+    },
+    "55eb0": {
+      "importer": "gltf-mesh",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@55eb0",
+      "displayName": "",
+      "id": "55eb0",
+      "name": "Building_House_014.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 13
+      }
+    },
+    "bdea9": {
+      "importer": "gltf-mesh",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@bdea9",
+      "displayName": "",
+      "id": "bdea9",
+      "name": "Building_House_012.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 14
+      }
+    },
+    "9bd18": {
+      "importer": "gltf-mesh",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@9bd18",
+      "displayName": "",
+      "id": "9bd18",
+      "name": "grass_square_mesh (1).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 15
+      }
+    },
+    "57bef": {
+      "importer": "gltf-mesh",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@57bef",
+      "displayName": "",
+      "id": "57bef",
+      "name": "grass_square_mesh.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 16
+      }
+    },
+    "5b60a": {
+      "importer": "gltf-mesh",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@5b60a",
+      "displayName": "",
+      "id": "5b60a",
+      "name": "tree_large_mesh.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 17
+      }
+    },
+    "d34e3": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@d34e3",
+      "displayName": "",
+      "id": "d34e3",
+      "name": "Road.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "63c1a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@63c1a",
+      "displayName": "",
+      "id": "63c1a",
+      "name": "SimpleTown.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "bd460": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@bd460",
+      "displayName": "",
+      "id": "bd460",
+      "name": "Nature_Trees.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "e5a1b": {
+      "importer": "texture",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@e5a1b",
+      "displayName": "",
+      "id": "e5a1b",
+      "name": "Residential_Road.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@d34e3"
+      }
+    },
+    "fb238": {
+      "importer": "texture",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@fb238",
+      "displayName": "",
+      "id": "fb238",
+      "name": "Residential_Nature.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@bd460"
+      }
+    },
+    "96c0b": {
+      "importer": "gltf-scene",
+      "uuid": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@96c0b",
+      "displayName": "",
+      "id": "96c0b",
+      "name": "Residemtial_hub.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Road.png",
+        "uri": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@d34e3"
+      },
+      {
+        "name": "SimpleTown.png",
+        "uri": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@63c1a"
+      },
+      {
+        "name": "Nature_Trees.png",
+        "uri": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@bd460"
+      }
+    ],
+    "redirect": "f7ab84d4-eaf1-45ff-abfb-366f39e77452@96c0b",
+    "assetFinder": {
+      "meshes": [
+        "f7ab84d4-eaf1-45ff-abfb-366f39e77452@8edb0",
+        "f7ab84d4-eaf1-45ff-abfb-366f39e77452@847af",
+        "f7ab84d4-eaf1-45ff-abfb-366f39e77452@03d0d",
+        "f7ab84d4-eaf1-45ff-abfb-366f39e77452@b28fb",
+        "f7ab84d4-eaf1-45ff-abfb-366f39e77452@6a1eb",
+        "f7ab84d4-eaf1-45ff-abfb-366f39e77452@59604",
+        "f7ab84d4-eaf1-45ff-abfb-366f39e77452@1b5d4",
+        "f7ab84d4-eaf1-45ff-abfb-366f39e77452@273e0",
+        "f7ab84d4-eaf1-45ff-abfb-366f39e77452@50530",
+        "f7ab84d4-eaf1-45ff-abfb-366f39e77452@52e54",
+        "f7ab84d4-eaf1-45ff-abfb-366f39e77452@0ac39",
+        "f7ab84d4-eaf1-45ff-abfb-366f39e77452@b76c1",
+        "f7ab84d4-eaf1-45ff-abfb-366f39e77452@9a83e",
+        "f7ab84d4-eaf1-45ff-abfb-366f39e77452@55eb0",
+        "f7ab84d4-eaf1-45ff-abfb-366f39e77452@bdea9",
+        "f7ab84d4-eaf1-45ff-abfb-366f39e77452@9bd18",
+        "f7ab84d4-eaf1-45ff-abfb-366f39e77452@57bef",
+        "f7ab84d4-eaf1-45ff-abfb-366f39e77452@5b60a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f7ab84d4-eaf1-45ff-abfb-366f39e77452@e5a1b",
+        "f7ab84d4-eaf1-45ff-abfb-366f39e77452@97011",
+        "f7ab84d4-eaf1-45ff-abfb-366f39e77452@fb238"
+      ],
+      "materials": [
+        "9b5040ea-9f66-472f-be1a-f86df03870ed",
+        "6fb67dbd-3658-4b64-b1fd-911d41a88840",
+        "c0fae553-8f86-4c76-a3a2-4e0afbd8dd17",
+        "73808256-636d-434d-a61c-95ea28cea995"
+      ],
+      "scenes": [
+        "f7ab84d4-eaf1-45ff-abfb-366f39e77452@96c0b"
+      ]
+    },
+    "dumpMaterials": true,
+    "useVertexColors": false
+  }
+}

@@ -1,0 +1,810 @@
+{
+  "ver": "1.3.21",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2",
+  "files": [],
+  "subMetas": {
+    "72714": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@72714",
+      "displayName": "",
+      "id": "72714",
+      "name": "SC_Bld_EiffelTower13.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 15
+      }
+    },
+    "81940": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@81940",
+      "displayName": "",
+      "id": "81940",
+      "name": "SC_Bld_EiffelTower15.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 17
+      }
+    },
+    "f326d": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@f326d",
+      "displayName": "",
+      "id": "f326d",
+      "name": "Prop_Tree_01 (3).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "07501": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@07501",
+      "displayName": "",
+      "id": "07501",
+      "name": "Prop_Tree_01 (2).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "44c45": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@44c45",
+      "displayName": "",
+      "id": "44c45",
+      "name": "SC_Bld_EiffelTower.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "053d5": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@053d5",
+      "displayName": "",
+      "id": "053d5",
+      "name": "SC_Bld_EiffelTower1.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "3c1d2": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@3c1d2",
+      "displayName": "",
+      "id": "3c1d2",
+      "name": "SC_Bld_EiffelTower2.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "a39e0": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@a39e0",
+      "displayName": "",
+      "id": "a39e0",
+      "name": "SC_Bld_EiffelTower3.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "90cd4": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@90cd4",
+      "displayName": "",
+      "id": "90cd4",
+      "name": "SC_Bld_EiffelTower4.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      }
+    },
+    "c8bf2": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@c8bf2",
+      "displayName": "",
+      "id": "c8bf2",
+      "name": "SC_Bld_EiffelTower5.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 7
+      }
+    },
+    "9173a": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@9173a",
+      "displayName": "",
+      "id": "9173a",
+      "name": "SC_Bld_EiffelTower6.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 8
+      }
+    },
+    "27b2b": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@27b2b",
+      "displayName": "",
+      "id": "27b2b",
+      "name": "SC_Bld_EiffelTower7.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 9
+      }
+    },
+    "fabc9": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@fabc9",
+      "displayName": "",
+      "id": "fabc9",
+      "name": "SC_Bld_EiffelTower8.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 10
+      }
+    },
+    "41c71": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@41c71",
+      "displayName": "",
+      "id": "41c71",
+      "name": "SC_Bld_EiffelTower9.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 11
+      }
+    },
+    "c2246": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@c2246",
+      "displayName": "",
+      "id": "c2246",
+      "name": "SC_Bld_EiffelTower10.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 12
+      }
+    },
+    "bb05e": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@bb05e",
+      "displayName": "",
+      "id": "bb05e",
+      "name": "SC_Bld_EiffelTower11.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 13
+      }
+    },
+    "bc11d": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@bc11d",
+      "displayName": "",
+      "id": "bc11d",
+      "name": "SC_Bld_EiffelTower12.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 14
+      }
+    },
+    "f97b9": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@f97b9",
+      "displayName": "",
+      "id": "f97b9",
+      "name": "SC_Bld_EiffelTower14.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 16
+      }
+    },
+    "192a2": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@192a2",
+      "displayName": "",
+      "id": "192a2",
+      "name": "SC_Bld_EiffelTower16.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 18
+      }
+    },
+    "ba521": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@ba521",
+      "displayName": "",
+      "id": "ba521",
+      "name": "SC_Bld_EiffelTower17.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 19
+      }
+    },
+    "dadc8": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@dadc8",
+      "displayName": "",
+      "id": "dadc8",
+      "name": "SC_Bld_EiffelTower18.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 20
+      }
+    },
+    "50e14": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@50e14",
+      "displayName": "",
+      "id": "50e14",
+      "name": "SC_Bld_EiffelTower19.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 21
+      }
+    },
+    "c658b": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@c658b",
+      "displayName": "",
+      "id": "c658b",
+      "name": "SC_Bld_EiffelTower20.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 22
+      }
+    },
+    "1be79": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@1be79",
+      "displayName": "",
+      "id": "1be79",
+      "name": "@Fractured Object (single mesh).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 23
+      }
+    },
+    "6a903": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@6a903",
+      "displayName": "",
+      "id": "6a903",
+      "name": "Ground_(2)_32374_6.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 24
+      }
+    },
+    "fee66": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@fee66",
+      "displayName": "",
+      "id": "fee66",
+      "name": "SM_Env_Rock_Brown_02 (1).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 25
+      }
+    },
+    "e691a": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@e691a",
+      "displayName": "",
+      "id": "e691a",
+      "name": "SM_Env_Rock_Grey_01 (3).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 26
+      }
+    },
+    "c0e0e": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@c0e0e",
+      "displayName": "",
+      "id": "c0e0e",
+      "name": "SM_Env_Rock_Grey_01 (2).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 27
+      }
+    },
+    "ec49b": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@ec49b",
+      "displayName": "",
+      "id": "ec49b",
+      "name": "SM_Env_Rock_Grey_01 (1).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 28
+      }
+    },
+    "5b8fd": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@5b8fd",
+      "displayName": "",
+      "id": "5b8fd",
+      "name": "SM_Env_Rock_Brown_02.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 29
+      }
+    },
+    "7dfe8": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@7dfe8",
+      "displayName": "",
+      "id": "7dfe8",
+      "name": "Ground_(2)_32374_5.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 30
+      }
+    },
+    "0d826": {
+      "importer": "gltf-mesh",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@0d826",
+      "displayName": "",
+      "id": "0d826",
+      "name": "Ground (2).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 31
+      }
+    },
+    "db7d6": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@db7d6",
+      "displayName": "",
+      "id": "db7d6",
+      "name": "Props.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "63c1a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@63c1a",
+      "displayName": "",
+      "id": "63c1a",
+      "name": "SimpleTown.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "565cc": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@565cc",
+      "displayName": "",
+      "id": "565cc",
+      "name": "SimpleCity_Texture.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "00504": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@00504",
+      "displayName": "",
+      "id": "00504",
+      "name": "Eiffel Park_Floor-Concrete_MainTex.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "d0add": {
+      "importer": "texture",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@d0add",
+      "displayName": "",
+      "id": "d0add",
+      "name": "Eiffel Park_MilitaryProps.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d1576864-e8b7-435d-881f-9f2e068559b2@db7d6"
+      }
+    },
+    "90a57": {
+      "importer": "texture",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@90a57",
+      "displayName": "",
+      "id": "90a57",
+      "name": "Eiffel Park_SimpleTown.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d1576864-e8b7-435d-881f-9f2e068559b2@63c1a"
+      }
+    },
+    "3485e": {
+      "importer": "texture",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@3485e",
+      "displayName": "",
+      "id": "3485e",
+      "name": "Eiffel Park_SimpleCity_Texture.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d1576864-e8b7-435d-881f-9f2e068559b2@565cc"
+      }
+    },
+    "44dba": {
+      "importer": "texture",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@44dba",
+      "displayName": "",
+      "id": "44dba",
+      "name": "Eiffel Park_Floor-Concrete.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d1576864-e8b7-435d-881f-9f2e068559b2@00504"
+      }
+    },
+    "6b809": {
+      "importer": "gltf-scene",
+      "uuid": "d1576864-e8b7-435d-881f-9f2e068559b2@6b809",
+      "displayName": "",
+      "id": "6b809",
+      "name": "Eiffel Park_hub.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Props.png",
+        "uri": "d1576864-e8b7-435d-881f-9f2e068559b2@db7d6"
+      },
+      {
+        "name": "SimpleTown.png",
+        "uri": "d1576864-e8b7-435d-881f-9f2e068559b2@63c1a"
+      },
+      {
+        "name": "SimpleCity_Texture.png",
+        "uri": "d1576864-e8b7-435d-881f-9f2e068559b2@565cc"
+      },
+      {
+        "name": "Eiffel Park_Floor-Concrete_MainTex.png",
+        "uri": "d1576864-e8b7-435d-881f-9f2e068559b2@00504"
+      }
+    ],
+    "redirect": "d1576864-e8b7-435d-881f-9f2e068559b2@6b809",
+    "assetFinder": {
+      "meshes": [
+        "d1576864-e8b7-435d-881f-9f2e068559b2@f326d",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@07501",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@44c45",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@053d5",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@3c1d2",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@a39e0",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@90cd4",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@c8bf2",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@9173a",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@27b2b",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@fabc9",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@41c71",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@c2246",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@bb05e",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@bc11d",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@72714",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@f97b9",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@81940",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@192a2",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@ba521",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@dadc8",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@50e14",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@c658b",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@1be79",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@6a903",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@fee66",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@e691a",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@c0e0e",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@ec49b",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@5b8fd",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@7dfe8",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@0d826"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d1576864-e8b7-435d-881f-9f2e068559b2@d0add",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@90a57",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@3485e",
+        "d1576864-e8b7-435d-881f-9f2e068559b2@44dba"
+      ],
+      "materials": [
+        "61626a2c-c5d7-4cb8-bd75-b68936811a85",
+        "f5f39368-1816-4c8f-a914-213fff8a93a7",
+        "ea9ceb22-d15e-4c2e-83b4-7769512b3c19",
+        "3a743bde-ad18-4b7e-9df9-71d0c12bc8a4",
+        "f2f33d03-d1fe-4494-aa35-c7fcef70aed1",
+        "475b44ca-0ab0-44ce-8d9a-066577ed197b"
+      ],
+      "scenes": [
+        "d1576864-e8b7-435d-881f-9f2e068559b2@6b809"
+      ]
+    },
+    "dumpMaterials": true,
+    "useVertexColors": false
+  }
+}

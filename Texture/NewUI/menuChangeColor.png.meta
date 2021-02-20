@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "f71f6eb4-d937-4bd8-93e4-72333e3729a8",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "f71f6eb4-d937-4bd8-93e4-72333e3729a8@6c48a",
+      "displayName": "menuChangeColor",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f71f6eb4-d937-4bd8-93e4-72333e3729a8"
+      }
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "f71f6eb4-d937-4bd8-93e4-72333e3729a8@f9941",
+      "displayName": "menuChangeColor",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 256,
+        "height": 227,
+        "rawWidth": 256,
+        "rawHeight": 227,
+        "borderTop": 44,
+        "borderBottom": 66,
+        "borderLeft": 48,
+        "borderRight": 44,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f71f6eb4-d937-4bd8-93e4-72333e3729a8@6c48a",
+        "atlasUuid": ""
+      }
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "f71f6eb4-d937-4bd8-93e4-72333e3729a8@f9941"
+  }
+}

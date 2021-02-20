@@ -1,0 +1,75 @@
+{
+  "ver": "1.3.21",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2b4f262f-ecf4-45ad-8dde-40979fd579b9",
+  "files": [],
+  "subMetas": {
+    "ac1a2": {
+      "importer": "gltf-mesh",
+      "uuid": "2b4f262f-ecf4-45ad-8dde-40979fd579b9@ac1a2",
+      "displayName": "",
+      "id": "ac1a2",
+      "name": "SuctionAreaModel.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "cf12c": {
+      "importer": "gltf-material",
+      "uuid": "2b4f262f-ecf4-45ad-8dde-40979fd579b9@cf12c",
+      "displayName": "",
+      "id": "cf12c",
+      "name": "SuctionArea.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "7d325": {
+      "importer": "gltf-scene",
+      "uuid": "2b4f262f-ecf4-45ad-8dde-40979fd579b9@7d325",
+      "displayName": "",
+      "id": "7d325",
+      "name": "SuctionAreaModel.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "2b4f262f-ecf4-45ad-8dde-40979fd579b9@7d325",
+    "assetFinder": {
+      "meshes": [
+        "2b4f262f-ecf4-45ad-8dde-40979fd579b9@ac1a2"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "2b4f262f-ecf4-45ad-8dde-40979fd579b9@cf12c"
+      ],
+      "scenes": [
+        "2b4f262f-ecf4-45ad-8dde-40979fd579b9@7d325"
+      ]
+    }
+  }
+}

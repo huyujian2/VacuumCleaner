@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "137c3c7d-7375-4e49-825c-58faf7fc4a85",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "137c3c7d-7375-4e49-825c-58faf7fc4a85@6c48a",
+      "displayName": "upgrade-button",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "137c3c7d-7375-4e49-825c-58faf7fc4a85"
+      }
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "137c3c7d-7375-4e49-825c-58faf7fc4a85@f9941",
+      "displayName": "upgrade-button",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 256,
+        "height": 239,
+        "rawWidth": 256,
+        "rawHeight": 239,
+        "borderTop": 54,
+        "borderBottom": 63,
+        "borderLeft": 49,
+        "borderRight": 57,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "137c3c7d-7375-4e49-825c-58faf7fc4a85@6c48a",
+        "atlasUuid": ""
+      }
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "137c3c7d-7375-4e49-825c-58faf7fc4a85@f9941"
+  }
+}

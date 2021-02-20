@@ -1,0 +1,496 @@
+{
+  "ver": "1.3.21",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99",
+  "files": [],
+  "subMetas": {
+    "26131": {
+      "importer": "gltf-mesh",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@26131",
+      "displayName": "",
+      "id": "26131",
+      "name": "Carpark__1_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "76095": {
+      "importer": "gltf-mesh",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@76095",
+      "displayName": "",
+      "id": "76095",
+      "name": "fire_truck_fr_wheel_mesh.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      }
+    },
+    "fa636": {
+      "importer": "gltf-mesh",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@fa636",
+      "displayName": "",
+      "id": "fa636",
+      "name": "Carpark.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "898b1": {
+      "importer": "gltf-mesh",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@898b1",
+      "displayName": "",
+      "id": "898b1",
+      "name": "Carpark__2_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "d60ef": {
+      "importer": "gltf-mesh",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@d60ef",
+      "displayName": "",
+      "id": "d60ef",
+      "name": "Carpark__3_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "8fc53": {
+      "importer": "gltf-mesh",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@8fc53",
+      "displayName": "",
+      "id": "8fc53",
+      "name": "fire_truck_seperate_mesh.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "1ac2b": {
+      "importer": "gltf-mesh",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@1ac2b",
+      "displayName": "",
+      "id": "1ac2b",
+      "name": "fire_truck_fl_wheel_mesh.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "519f4": {
+      "importer": "gltf-mesh",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@519f4",
+      "displayName": "",
+      "id": "519f4",
+      "name": "fire_truck_rl_wheel_mesh.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 7
+      }
+    },
+    "43cb1": {
+      "importer": "gltf-mesh",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@43cb1",
+      "displayName": "",
+      "id": "43cb1",
+      "name": "fire_truck_rr_wheel_mesh.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 8
+      }
+    },
+    "5884f": {
+      "importer": "gltf-mesh",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@5884f",
+      "displayName": "",
+      "id": "5884f",
+      "name": "car_seperate_green.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 9
+      }
+    },
+    "589ac": {
+      "importer": "gltf-mesh",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@589ac",
+      "displayName": "",
+      "id": "589ac",
+      "name": "limo_white_prefab.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 10
+      }
+    },
+    "de5c7": {
+      "importer": "gltf-mesh",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@de5c7",
+      "displayName": "",
+      "id": "de5c7",
+      "name": "Probuilder_Bit.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 11
+      }
+    },
+    "63c1a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@63c1a",
+      "displayName": "",
+      "id": "63c1a",
+      "name": "SimpleTown.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "f4bda": {
+      "importer": "gltf-embeded-image",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@f4bda",
+      "displayName": "",
+      "id": "f4bda",
+      "name": "Vehicle_Fire_Truck.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "de70d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@de70d",
+      "displayName": "",
+      "id": "de70d",
+      "name": "Vehicle_Car01_c.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "5474d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@5474d",
+      "displayName": "",
+      "id": "5474d",
+      "name": "Vehicle_Car01_b.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "d4792": {
+      "importer": "gltf-embeded-image",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@d4792",
+      "displayName": "",
+      "id": "d4792",
+      "name": "Vehicle_Limo_a.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "1cf40": {
+      "importer": "texture",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@1cf40",
+      "displayName": "",
+      "id": "1cf40",
+      "name": "Map #30.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "addb27ba-df44-4403-9efd-e8ac51150d99@63c1a"
+      }
+    },
+    "25df9": {
+      "importer": "texture",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@25df9",
+      "displayName": "",
+      "id": "25df9",
+      "name": "Map #29.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "addb27ba-df44-4403-9efd-e8ac51150d99@f4bda"
+      }
+    },
+    "cc04f": {
+      "importer": "texture",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@cc04f",
+      "displayName": "",
+      "id": "cc04f",
+      "name": "Map #28.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "addb27ba-df44-4403-9efd-e8ac51150d99@de70d"
+      }
+    },
+    "81e17": {
+      "importer": "texture",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@81e17",
+      "displayName": "",
+      "id": "81e17",
+      "name": "Map #22.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "addb27ba-df44-4403-9efd-e8ac51150d99@5474d"
+      }
+    },
+    "f8974": {
+      "importer": "texture",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@f8974",
+      "displayName": "",
+      "id": "f8974",
+      "name": "Map #27.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "addb27ba-df44-4403-9efd-e8ac51150d99@d4792"
+      }
+    },
+    "a7284": {
+      "importer": "gltf-scene",
+      "uuid": "addb27ba-df44-4403-9efd-e8ac51150d99@a7284",
+      "displayName": "",
+      "id": "a7284",
+      "name": "carpark_hub.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "SimpleTown.png",
+        "uri": "addb27ba-df44-4403-9efd-e8ac51150d99@63c1a"
+      },
+      {
+        "name": "Vehicle_Fire_Truck.png",
+        "uri": "addb27ba-df44-4403-9efd-e8ac51150d99@f4bda"
+      },
+      {
+        "name": "Vehicle_Car01_c.png",
+        "uri": "addb27ba-df44-4403-9efd-e8ac51150d99@de70d"
+      },
+      {
+        "name": "Vehicle_Car01_b.png",
+        "uri": "addb27ba-df44-4403-9efd-e8ac51150d99@5474d"
+      },
+      {
+        "name": "Vehicle_Limo_a.png",
+        "uri": "addb27ba-df44-4403-9efd-e8ac51150d99@d4792"
+      }
+    ],
+    "redirect": "addb27ba-df44-4403-9efd-e8ac51150d99@a7284",
+    "assetFinder": {
+      "meshes": [
+        "addb27ba-df44-4403-9efd-e8ac51150d99@fa636",
+        "addb27ba-df44-4403-9efd-e8ac51150d99@26131",
+        "addb27ba-df44-4403-9efd-e8ac51150d99@898b1",
+        "addb27ba-df44-4403-9efd-e8ac51150d99@d60ef",
+        "addb27ba-df44-4403-9efd-e8ac51150d99@8fc53",
+        "addb27ba-df44-4403-9efd-e8ac51150d99@1ac2b",
+        "addb27ba-df44-4403-9efd-e8ac51150d99@76095",
+        "addb27ba-df44-4403-9efd-e8ac51150d99@519f4",
+        "addb27ba-df44-4403-9efd-e8ac51150d99@43cb1",
+        "addb27ba-df44-4403-9efd-e8ac51150d99@5884f",
+        "addb27ba-df44-4403-9efd-e8ac51150d99@589ac",
+        "addb27ba-df44-4403-9efd-e8ac51150d99@de5c7"
+      ],
+      "skeletons": [],
+      "textures": [
+        "addb27ba-df44-4403-9efd-e8ac51150d99@1cf40",
+        "addb27ba-df44-4403-9efd-e8ac51150d99@25df9",
+        "addb27ba-df44-4403-9efd-e8ac51150d99@cc04f",
+        "addb27ba-df44-4403-9efd-e8ac51150d99@81e17",
+        "addb27ba-df44-4403-9efd-e8ac51150d99@f8974"
+      ],
+      "materials": [
+        "1704c82b-0d46-4917-96dc-5b271761a9a2",
+        "bd632ef7-a3a8-40b2-a4bf-585794f25ec7",
+        "1d72fb4b-6152-425a-9936-88800c41f76d",
+        "628b8b53-f4dc-4a40-a397-1ac281a947c1",
+        "d40171f8-1bca-4973-8d96-4ac1544b26f2",
+        "2d3ab9d3-5ac8-44d0-9531-fe24882f0ac1"
+      ],
+      "scenes": [
+        "addb27ba-df44-4403-9efd-e8ac51150d99@a7284"
+      ]
+    },
+    "dumpMaterials": true,
+    "useVertexColors": false
+  }
+}

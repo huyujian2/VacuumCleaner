@@ -1,0 +1,812 @@
+{
+  "ver": "1.3.21",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b",
+  "files": [],
+  "subMetas": {
+    "38721": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@38721",
+      "displayName": "",
+      "id": "38721",
+      "name": "Building_Gym.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "63750": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@63750",
+      "displayName": "",
+      "id": "63750",
+      "name": "Building_Cinema.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "86931": {
+      "importer": "gltf-scene",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@86931",
+      "displayName": "",
+      "id": "86931",
+      "name": "Commercial_3_hub.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "c6cac": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@c6cac",
+      "displayName": "",
+      "id": "c6cac",
+      "name": "Building_Shop_004.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "c0182": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@c0182",
+      "displayName": "",
+      "id": "c0182",
+      "name": "Building_Shop_006.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "7ef3f": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@7ef3f",
+      "displayName": "",
+      "id": "7ef3f",
+      "name": "road_square_mesh__2_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "a41d2": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@a41d2",
+      "displayName": "",
+      "id": "a41d2",
+      "name": "road_square_mesh__4_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "f3ee6": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@f3ee6",
+      "displayName": "",
+      "id": "f3ee6",
+      "name": "road_square_mesh__6_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      }
+    },
+    "a1bab": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@a1bab",
+      "displayName": "",
+      "id": "a1bab",
+      "name": "road_square_mesh__7_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 7
+      }
+    },
+    "b99c9": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@b99c9",
+      "displayName": "",
+      "id": "b99c9",
+      "name": "dumpster_mesh__7_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 8
+      }
+    },
+    "e67f4": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@e67f4",
+      "displayName": "",
+      "id": "e67f4",
+      "name": "dumpster_mesh__8_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 9
+      }
+    },
+    "09720": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@09720",
+      "displayName": "",
+      "id": "09720",
+      "name": "dumpster_mesh__9_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 10
+      }
+    },
+    "dc037": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@dc037",
+      "displayName": "",
+      "id": "dc037",
+      "name": "dumpster_mesh__10_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 11
+      }
+    },
+    "db032": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@db032",
+      "displayName": "",
+      "id": "db032",
+      "name": "van_seperate_green.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 12
+      }
+    },
+    "a012a": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@a012a",
+      "displayName": "",
+      "id": "a012a",
+      "name": "store_small_mesh__4_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 13
+      }
+    },
+    "72da7": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@72da7",
+      "displayName": "",
+      "id": "72da7",
+      "name": "trash_mesh__3_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 14
+      }
+    },
+    "b0d55": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@b0d55",
+      "displayName": "",
+      "id": "b0d55",
+      "name": "trash_mesh__4_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 15
+      }
+    },
+    "bdf7e": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@bdf7e",
+      "displayName": "",
+      "id": "bdf7e",
+      "name": "trash_mesh__5_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 16
+      }
+    },
+    "0618d": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@0618d",
+      "displayName": "",
+      "id": "0618d",
+      "name": "pipe_mesh__2_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 17
+      }
+    },
+    "4a9d8": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@4a9d8",
+      "displayName": "",
+      "id": "4a9d8",
+      "name": "dish_mesh__1_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 18
+      }
+    },
+    "51eae": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@51eae",
+      "displayName": "",
+      "id": "51eae",
+      "name": "dish_mesh__2_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 19
+      }
+    },
+    "a135b": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@a135b",
+      "displayName": "",
+      "id": "a135b",
+      "name": "hydrant_mesh__3_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 20
+      }
+    },
+    "56b95": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@56b95",
+      "displayName": "",
+      "id": "56b95",
+      "name": "bin_mesh__2_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 21
+      }
+    },
+    "53ed3": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@53ed3",
+      "displayName": "",
+      "id": "53ed3",
+      "name": "bin_mesh__3_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 22
+      }
+    },
+    "d2463": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@d2463",
+      "displayName": "",
+      "id": "d2463",
+      "name": "lamp_mesh__7_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 23
+      }
+    },
+    "f7f2f": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@f7f2f",
+      "displayName": "",
+      "id": "f7f2f",
+      "name": "hydrant_mesh__4_001.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 24
+      }
+    },
+    "df2d3": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@df2d3",
+      "displayName": "",
+      "id": "df2d3",
+      "name": "trash_mesh__2_002.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 25
+      }
+    },
+    "0ae59": {
+      "importer": "gltf-mesh",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@0ae59",
+      "displayName": "",
+      "id": "0ae59",
+      "name": "hydrant_mesh__5_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 26
+      }
+    },
+    "63c1a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@63c1a",
+      "displayName": "",
+      "id": "63c1a",
+      "name": "SimpleTown.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "d34e3": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@d34e3",
+      "displayName": "",
+      "id": "d34e3",
+      "name": "Road.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "db7d6": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@db7d6",
+      "displayName": "",
+      "id": "db7d6",
+      "name": "Props.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "6bcd9": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@6bcd9",
+      "displayName": "",
+      "id": "6bcd9",
+      "name": "Props_Dumpster.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "915b1": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@915b1",
+      "displayName": "",
+      "id": "915b1",
+      "name": "Vehicle_Van_b.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "8abdc": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@8abdc",
+      "displayName": "",
+      "id": "8abdc",
+      "name": "Building02a.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "590e8": {
+      "importer": "texture",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@590e8",
+      "displayName": "",
+      "id": "590e8",
+      "name": "Map #48.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@63c1a"
+      }
+    },
+    "f15f6": {
+      "importer": "texture",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@f15f6",
+      "displayName": "",
+      "id": "f15f6",
+      "name": "Map #55.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@d34e3"
+      }
+    },
+    "320af": {
+      "importer": "texture",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@320af",
+      "displayName": "",
+      "id": "320af",
+      "name": "Map #54.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@db7d6"
+      }
+    },
+    "8ed8f": {
+      "importer": "texture",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@8ed8f",
+      "displayName": "",
+      "id": "8ed8f",
+      "name": "Map #53.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@6bcd9"
+      }
+    },
+    "8ffb4": {
+      "importer": "texture",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@8ffb4",
+      "displayName": "",
+      "id": "8ffb4",
+      "name": "Map #56.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@915b1"
+      }
+    },
+    "9a9bb": {
+      "importer": "texture",
+      "uuid": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@9a9bb",
+      "displayName": "",
+      "id": "9a9bb",
+      "name": "Map #50.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@8abdc"
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "SimpleTown.png",
+        "uri": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@63c1a"
+      },
+      {
+        "name": "Road.png",
+        "uri": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@d34e3"
+      },
+      {
+        "name": "Props.png",
+        "uri": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@db7d6"
+      },
+      {
+        "name": "Props_Dumpster.png",
+        "uri": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@6bcd9"
+      },
+      {
+        "name": "Vehicle_Van_b.png",
+        "uri": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@915b1"
+      },
+      {
+        "name": "Building02a.png",
+        "uri": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@8abdc"
+      }
+    ],
+    "redirect": "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@86931",
+    "assetFinder": {
+      "meshes": [
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@63750",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@38721",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@c6cac",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@c0182",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@7ef3f",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@a41d2",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@f3ee6",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@a1bab",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@b99c9",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@e67f4",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@09720",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@dc037",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@db032",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@a012a",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@72da7",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@b0d55",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@bdf7e",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@0618d",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@4a9d8",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@51eae",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@a135b",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@56b95",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@53ed3",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@d2463",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@f7f2f",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@df2d3",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@0ae59"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@590e8",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@f15f6",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@320af",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@8ed8f",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@8ffb4",
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@9a9bb"
+      ],
+      "materials": [
+        "6bd0b53d-b604-4e03-98d2-06ca2fd786c7",
+        "18dcf06c-c536-4b0c-8dae-2a35a9f0461b",
+        "cb759434-f9c4-468d-b139-34600f76b0c6",
+        "2c6842b9-45be-42b8-aa8d-a8878c544506",
+        "c53bbaaa-bebf-42d3-9444-bd60c884c23c",
+        "967030d3-255c-45da-ade8-75e1c8039d83"
+      ],
+      "scenes": [
+        "d5dcf281-9eb6-47a4-a468-b88fd935cd8b@86931"
+      ]
+    },
+    "useVertexColors": false,
+    "dumpMaterials": true
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "ver": "1.3.21",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "28e81293-b35d-475d-bcf8-ff56742e11a4",
+  "files": [],
+  "subMetas": {
+    "95307": {
+      "importer": "gltf-embeded-image",
+      "uuid": "28e81293-b35d-475d-bcf8-ff56742e11a4@95307",
+      "displayName": "",
+      "id": "95307",
+      "name": "Building02b.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "379a9": {
+      "importer": "gltf-mesh",
+      "uuid": "28e81293-b35d-475d-bcf8-ff56742e11a4@379a9",
+      "displayName": "",
+      "id": "379a9",
+      "name": "store_small_mesh__3_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "b938a": {
+      "importer": "gltf-mesh",
+      "uuid": "28e81293-b35d-475d-bcf8-ff56742e11a4@b938a",
+      "displayName": "",
+      "id": "b938a",
+      "name": "Building_OfficeMedium_Brown__1_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "eef0d": {
+      "importer": "gltf-mesh",
+      "uuid": "28e81293-b35d-475d-bcf8-ff56742e11a4@eef0d",
+      "displayName": "",
+      "id": "eef0d",
+      "name": "Building_BaberShop__1_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "5aad3": {
+      "importer": "gltf-mesh",
+      "uuid": "28e81293-b35d-475d-bcf8-ff56742e11a4@5aad3",
+      "displayName": "",
+      "id": "5aad3",
+      "name": "van_seperate_blue__1_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "524bf": {
+      "importer": "gltf-mesh",
+      "uuid": "28e81293-b35d-475d-bcf8-ff56742e11a4@524bf",
+      "displayName": "",
+      "id": "524bf",
+      "name": "traffic_light_mesh__6_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "daaef": {
+      "importer": "gltf-embeded-image",
+      "uuid": "28e81293-b35d-475d-bcf8-ff56742e11a4@daaef",
+      "displayName": "",
+      "id": "daaef",
+      "name": "Building03b.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "63c1a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "28e81293-b35d-475d-bcf8-ff56742e11a4@63c1a",
+      "displayName": "",
+      "id": "63c1a",
+      "name": "SimpleTown.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "db7d6": {
+      "importer": "gltf-embeded-image",
+      "uuid": "28e81293-b35d-475d-bcf8-ff56742e11a4@db7d6",
+      "displayName": "",
+      "id": "db7d6",
+      "name": "Props.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "7f21f": {
+      "importer": "gltf-embeded-image",
+      "uuid": "28e81293-b35d-475d-bcf8-ff56742e11a4@7f21f",
+      "displayName": "",
+      "id": "7f21f",
+      "name": "Vehicle_Van_a.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "c989d": {
+      "importer": "texture",
+      "uuid": "28e81293-b35d-475d-bcf8-ff56742e11a4@c989d",
+      "displayName": "",
+      "id": "c989d",
+      "name": "Map #49.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "28e81293-b35d-475d-bcf8-ff56742e11a4@95307"
+      }
+    },
+    "9a6d2": {
+      "importer": "texture",
+      "uuid": "28e81293-b35d-475d-bcf8-ff56742e11a4@9a6d2",
+      "displayName": "",
+      "id": "9a6d2",
+      "name": "Map #51.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "28e81293-b35d-475d-bcf8-ff56742e11a4@daaef"
+      }
+    },
+    "590e8": {
+      "importer": "texture",
+      "uuid": "28e81293-b35d-475d-bcf8-ff56742e11a4@590e8",
+      "displayName": "",
+      "id": "590e8",
+      "name": "Map #48.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "28e81293-b35d-475d-bcf8-ff56742e11a4@63c1a"
+      }
+    },
+    "320af": {
+      "importer": "texture",
+      "uuid": "28e81293-b35d-475d-bcf8-ff56742e11a4@320af",
+      "displayName": "",
+      "id": "320af",
+      "name": "Map #54.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "28e81293-b35d-475d-bcf8-ff56742e11a4@db7d6"
+      }
+    },
+    "3e201": {
+      "importer": "texture",
+      "uuid": "28e81293-b35d-475d-bcf8-ff56742e11a4@3e201",
+      "displayName": "",
+      "id": "3e201",
+      "name": "Map #52.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "28e81293-b35d-475d-bcf8-ff56742e11a4@7f21f"
+      }
+    },
+    "3bede": {
+      "importer": "gltf-scene",
+      "uuid": "28e81293-b35d-475d-bcf8-ff56742e11a4@3bede",
+      "displayName": "",
+      "id": "3bede",
+      "name": "Commercial_subset.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Building02b.png",
+        "uri": "28e81293-b35d-475d-bcf8-ff56742e11a4@95307"
+      },
+      {
+        "name": "Building03b.png",
+        "uri": "28e81293-b35d-475d-bcf8-ff56742e11a4@daaef"
+      },
+      {
+        "name": "SimpleTown.png",
+        "uri": "28e81293-b35d-475d-bcf8-ff56742e11a4@63c1a"
+      },
+      {
+        "name": "Props.png",
+        "uri": "28e81293-b35d-475d-bcf8-ff56742e11a4@db7d6"
+      },
+      {
+        "name": "Vehicle_Van_a.png",
+        "uri": "28e81293-b35d-475d-bcf8-ff56742e11a4@7f21f"
+      }
+    ],
+    "redirect": "28e81293-b35d-475d-bcf8-ff56742e11a4@3bede",
+    "assetFinder": {
+      "meshes": [
+        "28e81293-b35d-475d-bcf8-ff56742e11a4@379a9",
+        "28e81293-b35d-475d-bcf8-ff56742e11a4@b938a",
+        "28e81293-b35d-475d-bcf8-ff56742e11a4@eef0d",
+        "28e81293-b35d-475d-bcf8-ff56742e11a4@5aad3",
+        "28e81293-b35d-475d-bcf8-ff56742e11a4@524bf"
+      ],
+      "skeletons": [],
+      "textures": [
+        "28e81293-b35d-475d-bcf8-ff56742e11a4@c989d",
+        "28e81293-b35d-475d-bcf8-ff56742e11a4@9a6d2",
+        "28e81293-b35d-475d-bcf8-ff56742e11a4@590e8",
+        "28e81293-b35d-475d-bcf8-ff56742e11a4@320af",
+        "28e81293-b35d-475d-bcf8-ff56742e11a4@3e201"
+      ],
+      "materials": [
+        "4d99b52f-b97d-4317-a6b5-63d756074ae9",
+        "8158c16c-bd9e-4d32-8a2e-e99bd2d20333",
+        "4ba671fb-0e0a-4837-b6b0-c1611917c267",
+        "482b5279-c26c-4ce2-a97c-48e9743f786c",
+        "13f7e6f9-93a4-4fbd-a893-83e9a09a330e"
+      ],
+      "scenes": [
+        "28e81293-b35d-475d-bcf8-ff56742e11a4@3bede"
+      ]
+    },
+    "dumpMaterials": true,
+    "useVertexColors": false
+  }
+}

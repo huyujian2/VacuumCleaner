@@ -1,0 +1,145 @@
+{
+  "ver": "1.3.21",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "80b27c43-7317-43b2-92c5-aaf33f77e00a",
+  "files": [],
+  "subMetas": {
+    "41289": {
+      "importer": "gltf-mesh",
+      "uuid": "80b27c43-7317-43b2-92c5-aaf33f77e00a@41289",
+      "displayName": "",
+      "id": "41289",
+      "name": "SC_Bld_18_Dark.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "27e92": {
+      "importer": "gltf-mesh",
+      "uuid": "80b27c43-7317-43b2-92c5-aaf33f77e00a@27e92",
+      "displayName": "",
+      "id": "27e92",
+      "name": "SC_Bld_03_Brown (1).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "4d8d9": {
+      "importer": "gltf-mesh",
+      "uuid": "80b27c43-7317-43b2-92c5-aaf33f77e00a@4d8d9",
+      "displayName": "",
+      "id": "4d8d9",
+      "name": "SC_Bld_13_Dark.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "565cc": {
+      "importer": "gltf-embeded-image",
+      "uuid": "80b27c43-7317-43b2-92c5-aaf33f77e00a@565cc",
+      "displayName": "",
+      "id": "565cc",
+      "name": "SimpleCity_Texture.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "5ecb2": {
+      "importer": "texture",
+      "uuid": "80b27c43-7317-43b2-92c5-aaf33f77e00a@5ecb2",
+      "displayName": "",
+      "id": "5ecb2",
+      "name": "Metropolis 2_SimpleCity_Texture.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "80b27c43-7317-43b2-92c5-aaf33f77e00a@565cc"
+      }
+    },
+    "81ff8": {
+      "importer": "gltf-scene",
+      "uuid": "80b27c43-7317-43b2-92c5-aaf33f77e00a@81ff8",
+      "displayName": "",
+      "id": "81ff8",
+      "name": "Metropolis 2_subset.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "SimpleCity_Texture.png",
+        "uri": "80b27c43-7317-43b2-92c5-aaf33f77e00a@565cc"
+      }
+    ],
+    "redirect": "80b27c43-7317-43b2-92c5-aaf33f77e00a@81ff8",
+    "assetFinder": {
+      "meshes": [
+        "80b27c43-7317-43b2-92c5-aaf33f77e00a@27e92",
+        "80b27c43-7317-43b2-92c5-aaf33f77e00a@41289",
+        "80b27c43-7317-43b2-92c5-aaf33f77e00a@4d8d9"
+      ],
+      "skeletons": [],
+      "textures": [
+        "80b27c43-7317-43b2-92c5-aaf33f77e00a@5ecb2"
+      ],
+      "materials": [
+        "6b3379e8-e408-44cc-9af1-1706510ccdb1"
+      ],
+      "scenes": [
+        "80b27c43-7317-43b2-92c5-aaf33f77e00a@81ff8"
+      ]
+    },
+    "dumpMaterials": true,
+    "useVertexColors": false
+  }
+}

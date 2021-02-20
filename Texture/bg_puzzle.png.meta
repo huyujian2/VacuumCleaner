@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "e237a60d-619a-43a4-b82c-43dffe8bf222",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "e237a60d-619a-43a4-b82c-43dffe8bf222@6c48a",
+      "displayName": "bg_puzzle",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e237a60d-619a-43a4-b82c-43dffe8bf222"
+      }
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "e237a60d-619a-43a4-b82c-43dffe8bf222@f9941",
+      "displayName": "bg_puzzle",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 85,
+        "height": 89,
+        "rawWidth": 85,
+        "rawHeight": 89,
+        "borderTop": 35,
+        "borderBottom": 35,
+        "borderLeft": 35,
+        "borderRight": 35,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e237a60d-619a-43a4-b82c-43dffe8bf222@6c48a",
+        "atlasUuid": ""
+      }
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "e237a60d-619a-43a4-b82c-43dffe8bf222@f9941"
+  }
+}

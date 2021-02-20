@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "ca6b4f71-dc5a-4c99-a509-df099d43c91b",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "ca6b4f71-dc5a-4c99-a509-df099d43c91b@6c48a",
+      "displayName": "WingVacNew",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ca6b4f71-dc5a-4c99-a509-df099d43c91b"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "ca6b4f71-dc5a-4c99-a509-df099d43c91b@6c48a"
+  }
+}

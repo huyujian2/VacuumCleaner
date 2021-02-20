@@ -1,0 +1,253 @@
+{
+  "ver": "1.3.21",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5",
+  "files": [],
+  "subMetas": {
+    "04b61": {
+      "importer": "gltf-mesh",
+      "uuid": "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@04b61",
+      "displayName": "",
+      "id": "04b61",
+      "name": "Prop_Cupboards_Black_4.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "e9075": {
+      "importer": "gltf-mesh",
+      "uuid": "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@e9075",
+      "displayName": "",
+      "id": "e9075",
+      "name": "Prop_Bar_Bench (2).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "90b60": {
+      "importer": "gltf-mesh",
+      "uuid": "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@90b60",
+      "displayName": "",
+      "id": "90b60",
+      "name": "Prop_Fridge_01.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "915de": {
+      "importer": "gltf-mesh",
+      "uuid": "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@915de",
+      "displayName": "",
+      "id": "915de",
+      "name": "Prop_Bar_Bench_1.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "d1971": {
+      "importer": "gltf-mesh",
+      "uuid": "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@d1971",
+      "displayName": "",
+      "id": "d1971",
+      "name": "Prop_Cupboards_Black_1.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "04bc0": {
+      "importer": "gltf-mesh",
+      "uuid": "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@04bc0",
+      "displayName": "",
+      "id": "04bc0",
+      "name": "Prop_Cupboards_Black_2.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "88c56": {
+      "importer": "gltf-mesh",
+      "uuid": "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@88c56",
+      "displayName": "",
+      "id": "88c56",
+      "name": "Prop_Cupboards_Black_3.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      }
+    },
+    "bb60e": {
+      "importer": "gltf-mesh",
+      "uuid": "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@bb60e",
+      "displayName": "",
+      "id": "bb60e",
+      "name": "Prop_Fridge_01_1.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 7
+      }
+    },
+    "2f6d1": {
+      "importer": "gltf-mesh",
+      "uuid": "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@2f6d1",
+      "displayName": "",
+      "id": "2f6d1",
+      "name": "Cube.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 8
+      }
+    },
+    "0be83": {
+      "importer": "gltf-embeded-image",
+      "uuid": "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@0be83",
+      "displayName": "",
+      "id": "0be83",
+      "name": "SimpleInteriorsHouses.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "798e0": {
+      "importer": "texture",
+      "uuid": "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@798e0",
+      "displayName": "",
+      "id": "798e0",
+      "name": "SimpleInteriorsHouses.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@0be83"
+      }
+    },
+    "c73f7": {
+      "importer": "gltf-scene",
+      "uuid": "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@c73f7",
+      "displayName": "",
+      "id": "c73f7",
+      "name": "Kitchen (1)_subsubset.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "SimpleInteriorsHouses.png",
+        "uri": "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@0be83"
+      }
+    ],
+    "redirect": "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@c73f7",
+    "assetFinder": {
+      "meshes": [
+        "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@04b61",
+        "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@e9075",
+        "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@90b60",
+        "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@915de",
+        "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@d1971",
+        "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@04bc0",
+        "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@88c56",
+        "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@bb60e",
+        "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@2f6d1"
+      ],
+      "skeletons": [],
+      "textures": [
+        "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@798e0"
+      ],
+      "materials": [
+        "6350e782-81bc-45c5-89d3-a09a6143cf4a",
+        "731540f7-86c3-4327-9f3e-93024a407c3f"
+      ],
+      "scenes": [
+        "8c12c3d2-bbe4-4b4e-ac5a-77bc43a458d5@c73f7"
+      ]
+    },
+    "dumpMaterials": true
+  }
+}

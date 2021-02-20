@@ -1,0 +1,827 @@
+{
+  "ver": "1.3.21",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9",
+  "files": [],
+  "subMetas": {
+    "50530": {
+      "importer": "gltf-mesh",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@50530",
+      "displayName": "",
+      "id": "50530",
+      "name": "Env_Planter (1).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "52e54": {
+      "importer": "gltf-mesh",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@52e54",
+      "displayName": "",
+      "id": "52e54",
+      "name": "Env_Planter.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "c9f09": {
+      "importer": "gltf-mesh",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@c9f09",
+      "displayName": "",
+      "id": "c9f09",
+      "name": "Building_Gym (1).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "42bff": {
+      "importer": "gltf-mesh",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@42bff",
+      "displayName": "",
+      "id": "42bff",
+      "name": "Building_OfficeLarge_Brown (1).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "558a7": {
+      "importer": "gltf-mesh",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@558a7",
+      "displayName": "",
+      "id": "558a7",
+      "name": "SM_Bld_Silo_02.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "9b700": {
+      "importer": "gltf-mesh",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@9b700",
+      "displayName": "",
+      "id": "9b700",
+      "name": "ute_empty_seperate_blue.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "26b1b": {
+      "importer": "gltf-mesh",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@26b1b",
+      "displayName": "",
+      "id": "26b1b",
+      "name": "ute_fl_wheel_mesh.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      }
+    },
+    "578bc": {
+      "importer": "gltf-mesh",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@578bc",
+      "displayName": "",
+      "id": "578bc",
+      "name": "ute_fr_wheel_mesh.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 7
+      }
+    },
+    "e462e": {
+      "importer": "gltf-mesh",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@e462e",
+      "displayName": "",
+      "id": "e462e",
+      "name": "ute_rl_wheel_mesh.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 8
+      }
+    },
+    "9f81f": {
+      "importer": "gltf-mesh",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@9f81f",
+      "displayName": "",
+      "id": "9f81f",
+      "name": "ute_rr_wheel_mesh.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 9
+      }
+    },
+    "5884f": {
+      "importer": "gltf-mesh",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@5884f",
+      "displayName": "",
+      "id": "5884f",
+      "name": "car_seperate_green.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 10
+      }
+    },
+    "8ee1f": {
+      "importer": "gltf-mesh",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@8ee1f",
+      "displayName": "",
+      "id": "8ee1f",
+      "name": "car_fl_wheel_mesh.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 11
+      }
+    },
+    "7de4e": {
+      "importer": "gltf-mesh",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@7de4e",
+      "displayName": "",
+      "id": "7de4e",
+      "name": "car_fr_wheel_mesh.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 12
+      }
+    },
+    "4de51": {
+      "importer": "gltf-mesh",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@4de51",
+      "displayName": "",
+      "id": "4de51",
+      "name": "car_rl_wheel_mesh.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 13
+      }
+    },
+    "66f3a": {
+      "importer": "gltf-mesh",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@66f3a",
+      "displayName": "",
+      "id": "66f3a",
+      "name": "car_rr_wheel_mesh.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 14
+      }
+    },
+    "5acdb": {
+      "importer": "gltf-mesh",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@5acdb",
+      "displayName": "",
+      "id": "5acdb",
+      "name": "Building_OfficeStepped_Blue.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 15
+      }
+    },
+    "3384a": {
+      "importer": "gltf-mesh",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@3384a",
+      "displayName": "",
+      "id": "3384a",
+      "name": "Building_OfficeStepped_Grey.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 16
+      }
+    },
+    "a4939": {
+      "importer": "gltf-mesh",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@a4939",
+      "displayName": "",
+      "id": "a4939",
+      "name": "Building_OfficeLarge_Grey.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 17
+      }
+    },
+    "4e10a": {
+      "importer": "gltf-mesh",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@4e10a",
+      "displayName": "",
+      "id": "4e10a",
+      "name": "Building_ApartmentSmall_Red (1).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 18
+      }
+    },
+    "0edb0": {
+      "importer": "gltf-mesh",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@0edb0",
+      "displayName": "",
+      "id": "0edb0",
+      "name": "road_square_mesh (4).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 19
+      }
+    },
+    "5fe93": {
+      "importer": "gltf-embeded-image",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@5fe93",
+      "displayName": "",
+      "id": "5fe93",
+      "name": "SimpleTrains_Texture_02.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "83c31": {
+      "importer": "gltf-embeded-image",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@83c31",
+      "displayName": "",
+      "id": "83c31",
+      "name": "Building03c.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "66d9e": {
+      "importer": "gltf-embeded-image",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@66d9e",
+      "displayName": "",
+      "id": "66d9e",
+      "name": "SimpleTrains_Texture_01.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "e6ef1": {
+      "importer": "gltf-embeded-image",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@e6ef1",
+      "displayName": "",
+      "id": "e6ef1",
+      "name": "IndustryTopRight_Vehicle_Ute_Blue.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "de70d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@de70d",
+      "displayName": "",
+      "id": "de70d",
+      "name": "Vehicle_Car01_c.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "47f6b": {
+      "importer": "gltf-embeded-image",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@47f6b",
+      "displayName": "",
+      "id": "47f6b",
+      "name": "Building03a.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "daaef": {
+      "importer": "gltf-embeded-image",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@daaef",
+      "displayName": "",
+      "id": "daaef",
+      "name": "Building03b.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      }
+    },
+    "ddaca": {
+      "importer": "gltf-embeded-image",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@ddaca",
+      "displayName": "",
+      "id": "ddaca",
+      "name": "Building01b.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 7
+      }
+    },
+    "d34e3": {
+      "importer": "gltf-embeded-image",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@d34e3",
+      "displayName": "",
+      "id": "d34e3",
+      "name": "Road.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 8
+      }
+    },
+    "d04b5": {
+      "importer": "texture",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@d04b5",
+      "displayName": "",
+      "id": "d04b5",
+      "name": "IndustryTopRight_SimpleTown.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@5fe93"
+      }
+    },
+    "137b1": {
+      "importer": "texture",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@137b1",
+      "displayName": "",
+      "id": "137b1",
+      "name": "IndustryTopRight_Building03_Brown.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@83c31"
+      }
+    },
+    "52a7a": {
+      "importer": "texture",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@52a7a",
+      "displayName": "",
+      "id": "52a7a",
+      "name": "IndustryTopRight_SimpleTrains_Material_Color_01.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@66d9e"
+      }
+    },
+    "86a65": {
+      "importer": "texture",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@86a65",
+      "displayName": "",
+      "id": "86a65",
+      "name": "IndustryTopRight_Vehicle_Ute_Blue.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@e6ef1"
+      }
+    },
+    "e24e3": {
+      "importer": "texture",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@e24e3",
+      "displayName": "",
+      "id": "e24e3",
+      "name": "IndustryTopRight_Vehicle_Car01_Green.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@de70d"
+      }
+    },
+    "e4d64": {
+      "importer": "texture",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@e4d64",
+      "displayName": "",
+      "id": "e4d64",
+      "name": "IndustryTopRight_Building03_Blue.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@47f6b"
+      }
+    },
+    "31c14": {
+      "importer": "texture",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@31c14",
+      "displayName": "",
+      "id": "31c14",
+      "name": "IndustryTopRight_Building03_Grey.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@daaef"
+      }
+    },
+    "683bc": {
+      "importer": "texture",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@683bc",
+      "displayName": "",
+      "id": "683bc",
+      "name": "IndustryTopRight_Building01_Red.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@ddaca"
+      }
+    },
+    "7f8a9": {
+      "importer": "texture",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@7f8a9",
+      "displayName": "",
+      "id": "7f8a9",
+      "name": "IndustryTopRight_Road.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@d34e3"
+      }
+    },
+    "2e862": {
+      "importer": "gltf-scene",
+      "uuid": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@2e862",
+      "displayName": "",
+      "id": "2e862",
+      "name": "IndustryTopRight_hub.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "SimpleTrains_Texture_02.png",
+        "uri": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@5fe93"
+      },
+      {
+        "name": "Building03c.png",
+        "uri": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@83c31"
+      },
+      {
+        "name": "SimpleTrains_Texture_01.png",
+        "uri": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@66d9e"
+      },
+      {
+        "name": "IndustryTopRight_Vehicle_Ute_Blue",
+        "uri": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@e6ef1"
+      },
+      {
+        "name": "Vehicle_Car01_c.png",
+        "uri": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@de70d"
+      },
+      {
+        "name": "Building03a.png",
+        "uri": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@47f6b"
+      },
+      {
+        "name": "Building03b.png",
+        "uri": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@daaef"
+      },
+      {
+        "name": "Building01b.png",
+        "uri": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@ddaca"
+      },
+      {
+        "name": "Road.png",
+        "uri": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@d34e3"
+      }
+    ],
+    "redirect": "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@2e862",
+    "assetFinder": {
+      "meshes": [
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@50530",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@52e54",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@c9f09",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@42bff",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@558a7",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@9b700",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@26b1b",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@578bc",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@e462e",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@9f81f",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@5884f",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@8ee1f",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@7de4e",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@4de51",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@66f3a",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@5acdb",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@3384a",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@a4939",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@4e10a",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@0edb0"
+      ],
+      "skeletons": [],
+      "textures": [
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@d04b5",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@137b1",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@52a7a",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@86a65",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@e24e3",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@e4d64",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@31c14",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@683bc",
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@7f8a9"
+      ],
+      "materials": [
+        "f6e4eed9-2c3e-43db-a5b5-5faf2484beff",
+        "f3fdd562-5ea3-454b-b5ad-aa1e9a7d1d60",
+        "0271e91e-6e57-4f4f-93a5-b287400f1d6e",
+        "4906488b-5a1a-4fe2-8568-fe996fae57bf",
+        "626694f2-daa1-4290-a83c-22f02012671a",
+        "6f037032-965f-46ba-969a-6eadcc96fef3",
+        "b3c25d9b-aa2f-4a8a-bf6a-1992238827bb",
+        "7916dc38-d1b9-4a68-9507-19b97d9230fb",
+        "2407cc31-72f1-43ad-ac27-b13ef162027c"
+      ],
+      "scenes": [
+        "fedd80fe-2405-409a-8a02-3cbe1f3d77f9@2e862"
+      ]
+    },
+    "dumpMaterials": true,
+    "useVertexColors": false
+  }
+}

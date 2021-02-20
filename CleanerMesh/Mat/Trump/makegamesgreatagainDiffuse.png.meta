@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "4caa40db-1d78-4f44-bc44-f9a06b75a301",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "4caa40db-1d78-4f44-bc44-f9a06b75a301@6c48a",
+      "displayName": "makegamesgreatagainDiffuse",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "4caa40db-1d78-4f44-bc44-f9a06b75a301"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "4caa40db-1d78-4f44-bc44-f9a06b75a301@6c48a"
+  }
+}

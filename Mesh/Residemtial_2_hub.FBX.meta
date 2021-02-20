@@ -1,0 +1,484 @@
+{
+  "ver": "1.3.21",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25",
+  "files": [],
+  "subMetas": {
+    "45659": {
+      "importer": "gltf-mesh",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@45659",
+      "displayName": "",
+      "id": "45659",
+      "name": "tree_small_mesh (1).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 11
+      }
+    },
+    "7ea15": {
+      "importer": "gltf-mesh",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@7ea15",
+      "displayName": "",
+      "id": "7ea15",
+      "name": "Building_House_07.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "52e54": {
+      "importer": "gltf-mesh",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@52e54",
+      "displayName": "",
+      "id": "52e54",
+      "name": "Env_Planter.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "920d3": {
+      "importer": "gltf-mesh",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@920d3",
+      "displayName": "",
+      "id": "920d3",
+      "name": "Building_House_02.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "ef6ef": {
+      "importer": "gltf-mesh",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@ef6ef",
+      "displayName": "",
+      "id": "ef6ef",
+      "name": "Building_Garage_01.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "a740b": {
+      "importer": "gltf-mesh",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@a740b",
+      "displayName": "",
+      "id": "a740b",
+      "name": "Building_House_09.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "72d98": {
+      "importer": "gltf-mesh",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@72d98",
+      "displayName": "",
+      "id": "72d98",
+      "name": "Building_Garage_03.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "0c17f": {
+      "importer": "gltf-mesh",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@0c17f",
+      "displayName": "",
+      "id": "0c17f",
+      "name": "car_seperate_blue.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      }
+    },
+    "6a1eb": {
+      "importer": "gltf-mesh",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@6a1eb",
+      "displayName": "",
+      "id": "6a1eb",
+      "name": "path_straight_mesh.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 7
+      }
+    },
+    "ea4a2": {
+      "importer": "gltf-mesh",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@ea4a2",
+      "displayName": "",
+      "id": "ea4a2",
+      "name": "path_driveway.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 8
+      }
+    },
+    "7d976": {
+      "importer": "gltf-mesh",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@7d976",
+      "displayName": "",
+      "id": "7d976",
+      "name": "hedge_mesh.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 9
+      }
+    },
+    "deed8": {
+      "importer": "gltf-mesh",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@deed8",
+      "displayName": "",
+      "id": "deed8",
+      "name": "tree_small_mesh (2).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 10
+      }
+    },
+    "c1a3c": {
+      "importer": "gltf-mesh",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@c1a3c",
+      "displayName": "",
+      "id": "c1a3c",
+      "name": "tree_small_mesh.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 12
+      }
+    },
+    "3eda8": {
+      "importer": "gltf-mesh",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@3eda8",
+      "displayName": "",
+      "id": "3eda8",
+      "name": "tree_small_mesh (3).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 13
+      }
+    },
+    "63c1a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@63c1a",
+      "displayName": "",
+      "id": "63c1a",
+      "name": "SimpleTown.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "1359e": {
+      "importer": "gltf-embeded-image",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@1359e",
+      "displayName": "",
+      "id": "1359e",
+      "name": "Vehicle_Car01_a.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "d34e3": {
+      "importer": "gltf-embeded-image",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@d34e3",
+      "displayName": "",
+      "id": "d34e3",
+      "name": "Road.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "bd460": {
+      "importer": "gltf-embeded-image",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@bd460",
+      "displayName": "",
+      "id": "bd460",
+      "name": "Nature_Trees.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "7d245": {
+      "importer": "texture",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@7d245",
+      "displayName": "",
+      "id": "7d245",
+      "name": "Residential 2_SimpleTown.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@63c1a"
+      }
+    },
+    "6781c": {
+      "importer": "texture",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@6781c",
+      "displayName": "",
+      "id": "6781c",
+      "name": "Residential 2_Vehicle_Car01_Blue.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@1359e"
+      }
+    },
+    "3df42": {
+      "importer": "texture",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@3df42",
+      "displayName": "",
+      "id": "3df42",
+      "name": "Residential 2_Road.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@d34e3"
+      }
+    },
+    "47bfc": {
+      "importer": "texture",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@47bfc",
+      "displayName": "",
+      "id": "47bfc",
+      "name": "Residential 2_Nature.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@bd460"
+      }
+    },
+    "0ef80": {
+      "importer": "gltf-scene",
+      "uuid": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@0ef80",
+      "displayName": "",
+      "id": "0ef80",
+      "name": "Residemtial_2_hub.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "SimpleTown.png",
+        "uri": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@63c1a"
+      },
+      {
+        "name": "Vehicle_Car01_a.png",
+        "uri": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@1359e"
+      },
+      {
+        "name": "Road.png",
+        "uri": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@d34e3"
+      },
+      {
+        "name": "Nature_Trees.png",
+        "uri": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@bd460"
+      }
+    ],
+    "redirect": "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@0ef80",
+    "assetFinder": {
+      "meshes": [
+        "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@7ea15",
+        "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@52e54",
+        "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@920d3",
+        "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@ef6ef",
+        "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@a740b",
+        "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@72d98",
+        "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@0c17f",
+        "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@6a1eb",
+        "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@ea4a2",
+        "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@7d976",
+        "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@deed8",
+        "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@45659",
+        "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@c1a3c",
+        "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@3eda8"
+      ],
+      "skeletons": [],
+      "textures": [
+        "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@7d245",
+        "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@6781c",
+        "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@3df42",
+        "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@47bfc"
+      ],
+      "materials": [
+        "03e7b46d-b0e8-4d42-86d8-9e21dc3c23cc",
+        "35346470-837a-42d1-9403-0acaddf19c5e",
+        "e7297c09-ecd6-4b27-b0d2-fa324e3b87d8",
+        "8d6688fb-1c66-4ce3-8996-1ccef484eb6e"
+      ],
+      "scenes": [
+        "15a10fe1-5aa9-466f-8f1c-b93bf5b5ea25@0ef80"
+      ]
+    },
+    "dumpMaterials": true,
+    "useVertexColors": false
+  }
+}

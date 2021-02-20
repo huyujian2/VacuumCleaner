@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "fc7b2333-ee1b-4313-a386-df490897fb48",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "fc7b2333-ee1b-4313-a386-df490897fb48@6c48a",
+      "displayName": "Skinicon",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "fc7b2333-ee1b-4313-a386-df490897fb48"
+      }
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "fc7b2333-ee1b-4313-a386-df490897fb48@f9941",
+      "displayName": "Skinicon",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 35.5,
+        "offsetY": 12.5,
+        "trimX": 107,
+        "trimY": 0,
+        "width": 692,
+        "height": 892,
+        "rawWidth": 835,
+        "rawHeight": 917,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "fc7b2333-ee1b-4313-a386-df490897fb48@6c48a",
+        "atlasUuid": ""
+      }
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "fc7b2333-ee1b-4313-a386-df490897fb48@f9941"
+  }
+}

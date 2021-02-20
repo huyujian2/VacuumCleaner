@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "e1e06bb9-ef82-4379-b338-f8552c7066a3",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "e1e06bb9-ef82-4379-b338-f8552c7066a3@6c48a",
+      "displayName": "UISprite",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e1e06bb9-ef82-4379-b338-f8552c7066a3"
+      }
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "e1e06bb9-ef82-4379-b338-f8552c7066a3@f9941",
+      "displayName": "UISprite",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 2,
+        "trimY": 2,
+        "width": 28,
+        "height": 28,
+        "rawWidth": 32,
+        "rawHeight": 32,
+        "borderTop": 7,
+        "borderBottom": 7,
+        "borderLeft": 7,
+        "borderRight": 7,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e1e06bb9-ef82-4379-b338-f8552c7066a3@6c48a",
+        "atlasUuid": ""
+      }
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "e1e06bb9-ef82-4379-b338-f8552c7066a3@f9941"
+  }
+}

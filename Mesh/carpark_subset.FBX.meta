@@ -1,0 +1,452 @@
+{
+  "ver": "1.3.21",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9cc7c248-02d4-4431-b5a4-40ad2efe608f",
+  "files": [],
+  "subMetas": {
+    "43820": {
+      "importer": "gltf-embeded-image",
+      "uuid": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@43820",
+      "displayName": "",
+      "id": "43820",
+      "name": "Vehicle_Van_c.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "47769": {
+      "importer": "gltf-mesh",
+      "uuid": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@47769",
+      "displayName": "",
+      "id": "47769",
+      "name": "bus_seperate_grey.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "20abb": {
+      "importer": "gltf-mesh",
+      "uuid": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@20abb",
+      "displayName": "",
+      "id": "20abb",
+      "name": "car_seperate_red__2_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "cfc27": {
+      "importer": "gltf-mesh",
+      "uuid": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@cfc27",
+      "displayName": "",
+      "id": "cfc27",
+      "name": "van_seperate_red__1_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "91d8e": {
+      "importer": "gltf-mesh",
+      "uuid": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@91d8e",
+      "displayName": "",
+      "id": "91d8e",
+      "name": "ute_empty_seperate_yellow__1_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "15dfb": {
+      "importer": "gltf-mesh",
+      "uuid": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@15dfb",
+      "displayName": "",
+      "id": "15dfb",
+      "name": "ute_seperate_yellow__1_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "1e7dc": {
+      "importer": "gltf-mesh",
+      "uuid": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@1e7dc",
+      "displayName": "",
+      "id": "1e7dc",
+      "name": "taxi_mesh__2_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "af4e9": {
+      "importer": "gltf-mesh",
+      "uuid": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@af4e9",
+      "displayName": "",
+      "id": "af4e9",
+      "name": "family_van_yellow_prefab__2_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      }
+    },
+    "5474d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@5474d",
+      "displayName": "",
+      "id": "5474d",
+      "name": "Vehicle_Car01_b.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "e8b29": {
+      "importer": "gltf-embeded-image",
+      "uuid": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@e8b29",
+      "displayName": "",
+      "id": "e8b29",
+      "name": "Vehicle_Bus_b.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "1782f": {
+      "importer": "gltf-embeded-image",
+      "uuid": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@1782f",
+      "displayName": "",
+      "id": "1782f",
+      "name": "Vehicle_Ute_b.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "4f6e1": {
+      "importer": "gltf-embeded-image",
+      "uuid": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@4f6e1",
+      "displayName": "",
+      "id": "4f6e1",
+      "name": "Vehicle_Taxi.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "207ca": {
+      "importer": "gltf-embeded-image",
+      "uuid": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@207ca",
+      "displayName": "",
+      "id": "207ca",
+      "name": "Vehicle_Family_Van_c.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "81e17": {
+      "importer": "texture",
+      "uuid": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@81e17",
+      "displayName": "",
+      "id": "81e17",
+      "name": "Map #22.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@5474d"
+      }
+    },
+    "cae2f": {
+      "importer": "texture",
+      "uuid": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@cae2f",
+      "displayName": "",
+      "id": "cae2f",
+      "name": "Map #24.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@43820"
+      }
+    },
+    "9da75": {
+      "importer": "texture",
+      "uuid": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@9da75",
+      "displayName": "",
+      "id": "9da75",
+      "name": "Map #21.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@e8b29"
+      }
+    },
+    "5b30f": {
+      "importer": "texture",
+      "uuid": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@5b30f",
+      "displayName": "",
+      "id": "5b30f",
+      "name": "Map #23.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@1782f"
+      }
+    },
+    "c21b7": {
+      "importer": "texture",
+      "uuid": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@c21b7",
+      "displayName": "",
+      "id": "c21b7",
+      "name": "Map #25.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@4f6e1"
+      }
+    },
+    "4600c": {
+      "importer": "texture",
+      "uuid": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@4600c",
+      "displayName": "",
+      "id": "4600c",
+      "name": "Map #26.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@207ca"
+      }
+    },
+    "950d4": {
+      "importer": "gltf-scene",
+      "uuid": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@950d4",
+      "displayName": "",
+      "id": "950d4",
+      "name": "carpark_subset.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Vehicle_Car01_b.png",
+        "uri": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@5474d"
+      },
+      {
+        "name": "Vehicle_Van_c.png",
+        "uri": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@43820"
+      },
+      {
+        "name": "Vehicle_Bus_b.png",
+        "uri": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@e8b29"
+      },
+      {
+        "name": "Vehicle_Ute_b.png",
+        "uri": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@1782f"
+      },
+      {
+        "name": "Vehicle_Taxi.png",
+        "uri": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@4f6e1"
+      },
+      {
+        "name": "Vehicle_Family_Van_c.png",
+        "uri": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@207ca"
+      }
+    ],
+    "redirect": "9cc7c248-02d4-4431-b5a4-40ad2efe608f@950d4",
+    "assetFinder": {
+      "meshes": [
+        "9cc7c248-02d4-4431-b5a4-40ad2efe608f@20abb",
+        "9cc7c248-02d4-4431-b5a4-40ad2efe608f@cfc27",
+        "9cc7c248-02d4-4431-b5a4-40ad2efe608f@47769",
+        "9cc7c248-02d4-4431-b5a4-40ad2efe608f@91d8e",
+        "9cc7c248-02d4-4431-b5a4-40ad2efe608f@15dfb",
+        "9cc7c248-02d4-4431-b5a4-40ad2efe608f@1e7dc",
+        "9cc7c248-02d4-4431-b5a4-40ad2efe608f@af4e9"
+      ],
+      "skeletons": [],
+      "textures": [
+        "9cc7c248-02d4-4431-b5a4-40ad2efe608f@81e17",
+        "9cc7c248-02d4-4431-b5a4-40ad2efe608f@cae2f",
+        "9cc7c248-02d4-4431-b5a4-40ad2efe608f@9da75",
+        "9cc7c248-02d4-4431-b5a4-40ad2efe608f@5b30f",
+        "9cc7c248-02d4-4431-b5a4-40ad2efe608f@c21b7",
+        "9cc7c248-02d4-4431-b5a4-40ad2efe608f@4600c"
+      ],
+      "materials": [
+        "5992f405-2cf0-49a1-9d8d-f2960672b4f8",
+        "bb0146d3-5719-4c13-9e09-1620a673f008",
+        "53fbb4c7-bace-4185-85cc-4755c2b72b34",
+        "1d27c9d7-b977-4f9c-8263-fef05033e596",
+        "985a098f-86cd-4719-93fa-752404400080",
+        "5a8af5e4-42b4-421c-9600-ca6fddd8af64"
+      ],
+      "scenes": [
+        "9cc7c248-02d4-4431-b5a4-40ad2efe608f@950d4"
+      ]
+    },
+    "dumpMaterials": true,
+    "useVertexColors": false
+  }
+}

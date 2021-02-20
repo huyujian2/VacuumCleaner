@@ -1,0 +1,1098 @@
+{
+  "ver": "1.3.21",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6",
+  "files": [],
+  "subMetas": {
+    "85734": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@85734",
+      "displayName": "",
+      "id": "85734",
+      "name": "SC_Bld_WashingtonMonument16.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 16
+      }
+    },
+    "c972a": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@c972a",
+      "displayName": "",
+      "id": "c972a",
+      "name": "SC_Bld_WashingtonMonument.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "e1a31": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@e1a31",
+      "displayName": "",
+      "id": "e1a31",
+      "name": "SC_Bld_WashingtonMonument1.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "a0a11": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@a0a11",
+      "displayName": "",
+      "id": "a0a11",
+      "name": "SC_Bld_WashingtonMonument2.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "40dd3": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@40dd3",
+      "displayName": "",
+      "id": "40dd3",
+      "name": "SC_Bld_WashingtonMonument3.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "cd900": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@cd900",
+      "displayName": "",
+      "id": "cd900",
+      "name": "SC_Bld_WashingtonMonument4.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "70d07": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@70d07",
+      "displayName": "",
+      "id": "70d07",
+      "name": "SC_Bld_WashingtonMonument5.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "bc0a0": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@bc0a0",
+      "displayName": "",
+      "id": "bc0a0",
+      "name": "SC_Bld_WashingtonMonument6.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      }
+    },
+    "e66d9": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@e66d9",
+      "displayName": "",
+      "id": "e66d9",
+      "name": "SC_Bld_WashingtonMonument7.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 7
+      }
+    },
+    "847e1": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@847e1",
+      "displayName": "",
+      "id": "847e1",
+      "name": "SC_Bld_WashingtonMonument8.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 8
+      }
+    },
+    "def1a": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@def1a",
+      "displayName": "",
+      "id": "def1a",
+      "name": "SC_Bld_WashingtonMonument9.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 9
+      }
+    },
+    "55d36": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@55d36",
+      "displayName": "",
+      "id": "55d36",
+      "name": "SC_Bld_WashingtonMonument10.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 10
+      }
+    },
+    "1e0b5": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@1e0b5",
+      "displayName": "",
+      "id": "1e0b5",
+      "name": "SC_Bld_WashingtonMonument11.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 11
+      }
+    },
+    "90aa9": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@90aa9",
+      "displayName": "",
+      "id": "90aa9",
+      "name": "SC_Bld_WashingtonMonument12.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 12
+      }
+    },
+    "fc365": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@fc365",
+      "displayName": "",
+      "id": "fc365",
+      "name": "SC_Bld_WashingtonMonument13.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 13
+      }
+    },
+    "903cb": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@903cb",
+      "displayName": "",
+      "id": "903cb",
+      "name": "SC_Bld_WashingtonMonument14.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 14
+      }
+    },
+    "00951": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@00951",
+      "displayName": "",
+      "id": "00951",
+      "name": "SC_Bld_WashingtonMonument15.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 15
+      }
+    },
+    "6d260": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@6d260",
+      "displayName": "",
+      "id": "6d260",
+      "name": "SC_Bld_WashingtonMonument17.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 17
+      }
+    },
+    "7d688": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@7d688",
+      "displayName": "",
+      "id": "7d688",
+      "name": "SC_Bld_WashingtonMonument18.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 18
+      }
+    },
+    "6664e": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@6664e",
+      "displayName": "",
+      "id": "6664e",
+      "name": "SC_Bld_WashingtonMonument19.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 19
+      }
+    },
+    "f41b4": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@f41b4",
+      "displayName": "",
+      "id": "f41b4",
+      "name": "SC_Bld_WashingtonMonument20.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 20
+      }
+    },
+    "1be79": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@1be79",
+      "displayName": "",
+      "id": "1be79",
+      "name": "@Fractured Object (single mesh).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 21
+      }
+    },
+    "c022b": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@c022b",
+      "displayName": "",
+      "id": "c022b",
+      "name": "Ground_26363_11.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 22
+      }
+    },
+    "3f786": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@3f786",
+      "displayName": "",
+      "id": "3f786",
+      "name": "SM_Env_Rock_Brown_02 (2).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 23
+      }
+    },
+    "fee66": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@fee66",
+      "displayName": "",
+      "id": "fee66",
+      "name": "SM_Env_Rock_Brown_02 (1).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 24
+      }
+    },
+    "e691a": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@e691a",
+      "displayName": "",
+      "id": "e691a",
+      "name": "SM_Env_Rock_Grey_01 (3).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 25
+      }
+    },
+    "c0e0e": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@c0e0e",
+      "displayName": "",
+      "id": "c0e0e",
+      "name": "SM_Env_Rock_Grey_01 (2).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 26
+      }
+    },
+    "7bf46": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@7bf46",
+      "displayName": "",
+      "id": "7bf46",
+      "name": "SM_Env_Rock_Grey_02 (1).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 27
+      }
+    },
+    "ec49b": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@ec49b",
+      "displayName": "",
+      "id": "ec49b",
+      "name": "SM_Env_Rock_Grey_01 (1).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 28
+      }
+    },
+    "5b8fd": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@5b8fd",
+      "displayName": "",
+      "id": "5b8fd",
+      "name": "SM_Env_Rock_Brown_02.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 29
+      }
+    },
+    "41c55": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@41c55",
+      "displayName": "",
+      "id": "41c55",
+      "name": "tree_medium_mesh (10).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 30
+      }
+    },
+    "14f88": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@14f88",
+      "displayName": "",
+      "id": "14f88",
+      "name": "tree_large_mesh (1).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 31
+      }
+    },
+    "d0d7c": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@d0d7c",
+      "displayName": "",
+      "id": "d0d7c",
+      "name": "bush_small_mesh (11).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 32
+      }
+    },
+    "a777c": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@a777c",
+      "displayName": "",
+      "id": "a777c",
+      "name": "bush_small_mesh (10).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 33
+      }
+    },
+    "35d49": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@35d49",
+      "displayName": "",
+      "id": "35d49",
+      "name": "bush_small_mesh (9).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 34
+      }
+    },
+    "e93a1": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@e93a1",
+      "displayName": "",
+      "id": "e93a1",
+      "name": "bush_small_mesh (8).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 35
+      }
+    },
+    "f21e5": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@f21e5",
+      "displayName": "",
+      "id": "f21e5",
+      "name": "bush_small_mesh (7).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 36
+      }
+    },
+    "3db0e": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@3db0e",
+      "displayName": "",
+      "id": "3db0e",
+      "name": "bush_small_mesh (6).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 37
+      }
+    },
+    "5ee1f": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@5ee1f",
+      "displayName": "",
+      "id": "5ee1f",
+      "name": "bush_small_mesh (5).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 38
+      }
+    },
+    "2ac96": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@2ac96",
+      "displayName": "",
+      "id": "2ac96",
+      "name": "bush_small_mesh (4).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 39
+      }
+    },
+    "fe3ca": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@fe3ca",
+      "displayName": "",
+      "id": "fe3ca",
+      "name": "bush_small_mesh (3).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 40
+      }
+    },
+    "4988b": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@4988b",
+      "displayName": "",
+      "id": "4988b",
+      "name": "bush_small_mesh (2).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 41
+      }
+    },
+    "589fe": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@589fe",
+      "displayName": "",
+      "id": "589fe",
+      "name": "bush_small_mesh (1).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 42
+      }
+    },
+    "ad10d": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@ad10d",
+      "displayName": "",
+      "id": "ad10d",
+      "name": "tree_medium_mesh (9).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 43
+      }
+    },
+    "ed2e6": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@ed2e6",
+      "displayName": "",
+      "id": "ed2e6",
+      "name": "bush_small_mesh.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 44
+      }
+    },
+    "5b60a": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@5b60a",
+      "displayName": "",
+      "id": "5b60a",
+      "name": "tree_large_mesh.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 45
+      }
+    },
+    "6f5f2": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@6f5f2",
+      "displayName": "",
+      "id": "6f5f2",
+      "name": "Ground_26363_10.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 46
+      }
+    },
+    "74dce": {
+      "importer": "gltf-mesh",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@74dce",
+      "displayName": "",
+      "id": "74dce",
+      "name": "Ground.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 47
+      }
+    },
+    "db7d6": {
+      "importer": "gltf-embeded-image",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@db7d6",
+      "displayName": "",
+      "id": "db7d6",
+      "name": "Props.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "bd460": {
+      "importer": "gltf-embeded-image",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@bd460",
+      "displayName": "",
+      "id": "bd460",
+      "name": "Nature_Trees.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "565cc": {
+      "importer": "gltf-embeded-image",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@565cc",
+      "displayName": "",
+      "id": "565cc",
+      "name": "SimpleCity_Texture.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "859c9": {
+      "importer": "gltf-embeded-image",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@859c9",
+      "displayName": "",
+      "id": "859c9",
+      "name": "Monument Park_Floor-Concrete_MainTex.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "5af4e": {
+      "importer": "texture",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@5af4e",
+      "displayName": "",
+      "id": "5af4e",
+      "name": "Monument Park_MilitaryProps.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@db7d6"
+      }
+    },
+    "ec76e": {
+      "importer": "texture",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@ec76e",
+      "displayName": "",
+      "id": "ec76e",
+      "name": "Monument Park_Nature.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@bd460"
+      }
+    },
+    "436d8": {
+      "importer": "texture",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@436d8",
+      "displayName": "",
+      "id": "436d8",
+      "name": "Monument Park_SimpleCity_Texture.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@565cc"
+      }
+    },
+    "0fbde": {
+      "importer": "texture",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@0fbde",
+      "displayName": "",
+      "id": "0fbde",
+      "name": "Monument Park_Floor-Concrete.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@859c9"
+      }
+    },
+    "5e11e": {
+      "importer": "gltf-scene",
+      "uuid": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@5e11e",
+      "displayName": "",
+      "id": "5e11e",
+      "name": "Monument Park_hub.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Props.png",
+        "uri": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@db7d6"
+      },
+      {
+        "name": "Nature_Trees.png",
+        "uri": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@bd460"
+      },
+      {
+        "name": "SimpleCity_Texture.png",
+        "uri": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@565cc"
+      },
+      {
+        "name": "Monument Park_Floor-Concrete_MainTex.png",
+        "uri": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@859c9"
+      }
+    ],
+    "redirect": "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@5e11e",
+    "assetFinder": {
+      "meshes": [
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@c972a",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@e1a31",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@a0a11",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@40dd3",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@cd900",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@70d07",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@bc0a0",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@e66d9",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@847e1",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@def1a",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@55d36",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@1e0b5",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@90aa9",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@fc365",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@903cb",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@00951",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@85734",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@6d260",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@7d688",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@6664e",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@f41b4",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@1be79",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@c022b",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@3f786",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@fee66",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@e691a",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@c0e0e",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@7bf46",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@ec49b",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@5b8fd",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@41c55",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@14f88",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@d0d7c",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@a777c",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@35d49",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@e93a1",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@f21e5",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@3db0e",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@5ee1f",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@2ac96",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@fe3ca",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@4988b",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@589fe",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@ad10d",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@ed2e6",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@5b60a",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@6f5f2",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@74dce"
+      ],
+      "skeletons": [],
+      "textures": [
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@5af4e",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@ec76e",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@436d8",
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@0fbde"
+      ],
+      "materials": [
+        "70c29d2e-e266-4f4e-8c03-09d41a65cf71",
+        "481162d2-4803-4a4b-975e-0f212eb9dde2",
+        "ae538515-7d06-490f-9958-45430958df4f",
+        "516a1406-b8d3-430b-95d2-b9984617b9e2",
+        "2be299ad-16ab-4c7c-8cd2-c1fbec322e93",
+        "fb8562d5-8553-45fe-b03a-e20aeda544ab"
+      ],
+      "scenes": [
+        "cf8f10fc-c9c5-45f7-9d5d-8eb79445f3b6@5e11e"
+      ]
+    },
+    "dumpMaterials": true,
+    "useVertexColors": false
+  }
+}

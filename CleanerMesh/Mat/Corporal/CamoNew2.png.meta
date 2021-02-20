@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "fe160903-a4e2-45dd-adc6-12dae7df6edd",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "fe160903-a4e2-45dd-adc6-12dae7df6edd@6c48a",
+      "displayName": "CamoNew2",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "fe160903-a4e2-45dd-adc6-12dae7df6edd"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "fe160903-a4e2-45dd-adc6-12dae7df6edd@6c48a"
+  }
+}

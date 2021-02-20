@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "e8dea810-b389-46f8-80ac-428f7d3a824a",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "e8dea810-b389-46f8-80ac-428f7d3a824a@6c48a",
+      "displayName": "vaccum_uvw_pink",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e8dea810-b389-46f8-80ac-428f7d3a824a"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "e8dea810-b389-46f8-80ac-428f7d3a824a@6c48a"
+  }
+}

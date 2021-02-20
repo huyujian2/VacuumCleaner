@@ -1,0 +1,419 @@
+{
+  "ver": "1.3.21",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "83fa3335-8a23-49ee-9309-085800cb171a",
+  "files": [],
+  "subMetas": {
+    "62710": {
+      "importer": "gltf-embeded-image",
+      "uuid": "83fa3335-8a23-49ee-9309-085800cb171a@62710",
+      "displayName": "",
+      "id": "62710",
+      "name": "SimpleItems.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "70869": {
+      "importer": "texture",
+      "uuid": "83fa3335-8a23-49ee-9309-085800cb171a@70869",
+      "displayName": "",
+      "id": "70869",
+      "name": "SimpleShopInteriors.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "83fa3335-8a23-49ee-9309-085800cb171a@ddaf9"
+      }
+    },
+    "ab5a3": {
+      "importer": "gltf-mesh",
+      "uuid": "83fa3335-8a23-49ee-9309-085800cb171a@ab5a3",
+      "displayName": "",
+      "id": "ab5a3",
+      "name": "SI_Prop_Fryer (1).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "7eb09": {
+      "importer": "gltf-mesh",
+      "uuid": "83fa3335-8a23-49ee-9309-085800cb171a@7eb09",
+      "displayName": "",
+      "id": "7eb09",
+      "name": "SI_Prop_ChairTables_08 (2).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "81fa3": {
+      "importer": "gltf-mesh",
+      "uuid": "83fa3335-8a23-49ee-9309-085800cb171a@81fa3",
+      "displayName": "",
+      "id": "81fa3",
+      "name": "SI_Prop_KitchenCounter_01.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "e9993": {
+      "importer": "gltf-mesh",
+      "uuid": "83fa3335-8a23-49ee-9309-085800cb171a@e9993",
+      "displayName": "",
+      "id": "e9993",
+      "name": "SI_Prop_FriesHeater_02.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "3be14": {
+      "importer": "gltf-mesh",
+      "uuid": "83fa3335-8a23-49ee-9309-085800cb171a@3be14",
+      "displayName": "",
+      "id": "3be14",
+      "name": "SI_Prop_ShelfItem_21.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "b04e0": {
+      "importer": "gltf-mesh",
+      "uuid": "83fa3335-8a23-49ee-9309-085800cb171a@b04e0",
+      "displayName": "",
+      "id": "b04e0",
+      "name": "SI_Prop_ShelfItem_22.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "2e9d5": {
+      "importer": "gltf-mesh",
+      "uuid": "83fa3335-8a23-49ee-9309-085800cb171a@2e9d5",
+      "displayName": "",
+      "id": "2e9d5",
+      "name": "SI_Prop_FastfoodTray_05.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      }
+    },
+    "0bf64": {
+      "importer": "gltf-mesh",
+      "uuid": "83fa3335-8a23-49ee-9309-085800cb171a@0bf64",
+      "displayName": "",
+      "id": "0bf64",
+      "name": "SI_Prop_ShelfItem_26.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 7
+      }
+    },
+    "8a835": {
+      "importer": "gltf-mesh",
+      "uuid": "83fa3335-8a23-49ee-9309-085800cb171a@8a835",
+      "displayName": "",
+      "id": "8a835",
+      "name": "Items_Pizza_01 (4).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 8
+      }
+    },
+    "74bfe": {
+      "importer": "gltf-mesh",
+      "uuid": "83fa3335-8a23-49ee-9309-085800cb171a@74bfe",
+      "displayName": "",
+      "id": "74bfe",
+      "name": "Items_ChickenMeat_01.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 9
+      }
+    },
+    "f843d": {
+      "importer": "gltf-mesh",
+      "uuid": "83fa3335-8a23-49ee-9309-085800cb171a@f843d",
+      "displayName": "",
+      "id": "f843d",
+      "name": "Prop_KitchenSink_Black (1).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 10
+      }
+    },
+    "8e0a7": {
+      "importer": "gltf-mesh",
+      "uuid": "83fa3335-8a23-49ee-9309-085800cb171a@8e0a7",
+      "displayName": "",
+      "id": "8e0a7",
+      "name": "Prop_Bar_Stool (1).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 11
+      }
+    },
+    "2f6d1": {
+      "importer": "gltf-mesh",
+      "uuid": "83fa3335-8a23-49ee-9309-085800cb171a@2f6d1",
+      "displayName": "",
+      "id": "2f6d1",
+      "name": "Cube.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 12
+      }
+    },
+    "ddaf9": {
+      "importer": "gltf-embeded-image",
+      "uuid": "83fa3335-8a23-49ee-9309-085800cb171a@ddaf9",
+      "displayName": "",
+      "id": "ddaf9",
+      "name": "SimpleShopInterior_Texture.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "0be83": {
+      "importer": "gltf-embeded-image",
+      "uuid": "83fa3335-8a23-49ee-9309-085800cb171a@0be83",
+      "displayName": "",
+      "id": "0be83",
+      "name": "SimpleInteriorsHouses.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "fe049": {
+      "importer": "texture",
+      "uuid": "83fa3335-8a23-49ee-9309-085800cb171a@fe049",
+      "displayName": "",
+      "id": "fe049",
+      "name": "SimpleItems.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "83fa3335-8a23-49ee-9309-085800cb171a@62710"
+      }
+    },
+    "798e0": {
+      "importer": "texture",
+      "uuid": "83fa3335-8a23-49ee-9309-085800cb171a@798e0",
+      "displayName": "",
+      "id": "798e0",
+      "name": "SimpleInteriorsHouses.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "83fa3335-8a23-49ee-9309-085800cb171a@0be83"
+      }
+    },
+    "44fc9": {
+      "importer": "gltf-scene",
+      "uuid": "83fa3335-8a23-49ee-9309-085800cb171a@44fc9",
+      "displayName": "",
+      "id": "44fc9",
+      "name": "Kitchen (2)_subset.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "SimpleShopInterior_Texture.png",
+        "uri": "83fa3335-8a23-49ee-9309-085800cb171a@ddaf9"
+      },
+      {
+        "name": "SimpleItems.png",
+        "uri": "83fa3335-8a23-49ee-9309-085800cb171a@62710"
+      },
+      {
+        "name": "SimpleInteriorsHouses.png",
+        "uri": "83fa3335-8a23-49ee-9309-085800cb171a@0be83"
+      }
+    ],
+    "redirect": "83fa3335-8a23-49ee-9309-085800cb171a@44fc9",
+    "assetFinder": {
+      "meshes": [
+        "83fa3335-8a23-49ee-9309-085800cb171a@ab5a3",
+        "83fa3335-8a23-49ee-9309-085800cb171a@7eb09",
+        "83fa3335-8a23-49ee-9309-085800cb171a@81fa3",
+        "83fa3335-8a23-49ee-9309-085800cb171a@e9993",
+        "83fa3335-8a23-49ee-9309-085800cb171a@3be14",
+        "83fa3335-8a23-49ee-9309-085800cb171a@b04e0",
+        "83fa3335-8a23-49ee-9309-085800cb171a@2e9d5",
+        "83fa3335-8a23-49ee-9309-085800cb171a@0bf64",
+        "83fa3335-8a23-49ee-9309-085800cb171a@8a835",
+        "83fa3335-8a23-49ee-9309-085800cb171a@74bfe",
+        "83fa3335-8a23-49ee-9309-085800cb171a@f843d",
+        "83fa3335-8a23-49ee-9309-085800cb171a@8e0a7",
+        "83fa3335-8a23-49ee-9309-085800cb171a@2f6d1"
+      ],
+      "skeletons": [],
+      "textures": [
+        "83fa3335-8a23-49ee-9309-085800cb171a@70869",
+        "83fa3335-8a23-49ee-9309-085800cb171a@fe049",
+        "83fa3335-8a23-49ee-9309-085800cb171a@798e0"
+      ],
+      "materials": [
+        "4d847253-e48d-4072-8565-9f7f4d4c63db",
+        "ba637bc7-7cc1-4e04-b587-2d931b0b10f6",
+        "be9b511f-cb7e-48d1-9e7e-a200871e7fa2",
+        "e567fc1b-fc02-44c2-bbb2-323ac40cabbe"
+      ],
+      "scenes": [
+        "83fa3335-8a23-49ee-9309-085800cb171a@44fc9"
+      ]
+    },
+    "dumpMaterials": true
+  }
+}

@@ -1,0 +1,864 @@
+{
+  "ver": "1.3.21",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61",
+  "files": [],
+  "subMetas": {
+    "77a90": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@77a90",
+      "displayName": "",
+      "id": "77a90",
+      "name": "SC_Prop_AmericanFlag (3).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "7d6ba": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@7d6ba",
+      "displayName": "",
+      "id": "7d6ba",
+      "name": "SC_Prop_AmericanFlag (2).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "b1c14": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@b1c14",
+      "displayName": "",
+      "id": "b1c14",
+      "name": "SC_Bld_StatueOfLiberty.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "1aff6": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@1aff6",
+      "displayName": "",
+      "id": "1aff6",
+      "name": "SC_Bld_StatueOfLiberty1.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "fcb70": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@fcb70",
+      "displayName": "",
+      "id": "fcb70",
+      "name": "SC_Bld_StatueOfLiberty2.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "9c811": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@9c811",
+      "displayName": "",
+      "id": "9c811",
+      "name": "SC_Bld_StatueOfLiberty3.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "8664e": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@8664e",
+      "displayName": "",
+      "id": "8664e",
+      "name": "SC_Bld_StatueOfLiberty4.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      }
+    },
+    "91b08": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@91b08",
+      "displayName": "",
+      "id": "91b08",
+      "name": "SC_Bld_StatueOfLiberty5.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 7
+      }
+    },
+    "87eb3": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@87eb3",
+      "displayName": "",
+      "id": "87eb3",
+      "name": "SC_Bld_StatueOfLiberty6.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 8
+      }
+    },
+    "39d5a": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@39d5a",
+      "displayName": "",
+      "id": "39d5a",
+      "name": "SC_Bld_StatueOfLiberty7.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 9
+      }
+    },
+    "d6d92": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@d6d92",
+      "displayName": "",
+      "id": "d6d92",
+      "name": "SC_Bld_StatueOfLiberty8.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 10
+      }
+    },
+    "00d1b": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@00d1b",
+      "displayName": "",
+      "id": "00d1b",
+      "name": "SC_Bld_StatueOfLiberty9.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 11
+      }
+    },
+    "c4da1": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@c4da1",
+      "displayName": "",
+      "id": "c4da1",
+      "name": "SC_Bld_StatueOfLiberty10.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 12
+      }
+    },
+    "ff861": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@ff861",
+      "displayName": "",
+      "id": "ff861",
+      "name": "SC_Bld_StatueOfLiberty11.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 13
+      }
+    },
+    "da85f": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@da85f",
+      "displayName": "",
+      "id": "da85f",
+      "name": "SC_Bld_StatueOfLiberty12.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 14
+      }
+    },
+    "12c16": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@12c16",
+      "displayName": "",
+      "id": "12c16",
+      "name": "SC_Bld_StatueOfLiberty13.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 15
+      }
+    },
+    "13f37": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@13f37",
+      "displayName": "",
+      "id": "13f37",
+      "name": "SC_Bld_StatueOfLiberty14.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 16
+      }
+    },
+    "d9e7e": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@d9e7e",
+      "displayName": "",
+      "id": "d9e7e",
+      "name": "SC_Bld_StatueOfLiberty15.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 17
+      }
+    },
+    "b322c": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@b322c",
+      "displayName": "",
+      "id": "b322c",
+      "name": "SC_Bld_StatueOfLiberty16.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 18
+      }
+    },
+    "eb60b": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@eb60b",
+      "displayName": "",
+      "id": "eb60b",
+      "name": "SC_Bld_StatueOfLiberty17.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 19
+      }
+    },
+    "5762c": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@5762c",
+      "displayName": "",
+      "id": "5762c",
+      "name": "SC_Bld_StatueOfLiberty18.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 20
+      }
+    },
+    "2e511": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@2e511",
+      "displayName": "",
+      "id": "2e511",
+      "name": "SC_Bld_StatueOfLiberty19.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 21
+      }
+    },
+    "672d3": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@672d3",
+      "displayName": "",
+      "id": "672d3",
+      "name": "SC_Bld_StatueOfLiberty20.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 22
+      }
+    },
+    "1be79": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@1be79",
+      "displayName": "",
+      "id": "1be79",
+      "name": "@Fractured Object (single mesh).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 23
+      }
+    },
+    "2f6d1": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@2f6d1",
+      "displayName": "",
+      "id": "2f6d1",
+      "name": "Cube.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 24
+      }
+    },
+    "78d66": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@78d66",
+      "displayName": "",
+      "id": "78d66",
+      "name": "Ground_28205_3.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 25
+      }
+    },
+    "c9e41": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@c9e41",
+      "displayName": "",
+      "id": "c9e41",
+      "name": "Cube_31959_574.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 26
+      }
+    },
+    "3f786": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@3f786",
+      "displayName": "",
+      "id": "3f786",
+      "name": "SM_Env_Rock_Brown_02 (2).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 27
+      }
+    },
+    "e691a": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@e691a",
+      "displayName": "",
+      "id": "e691a",
+      "name": "SM_Env_Rock_Grey_01 (3).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 28
+      }
+    },
+    "fee66": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@fee66",
+      "displayName": "",
+      "id": "fee66",
+      "name": "SM_Env_Rock_Brown_02 (1).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 29
+      }
+    },
+    "c0e0e": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@c0e0e",
+      "displayName": "",
+      "id": "c0e0e",
+      "name": "SM_Env_Rock_Grey_01 (2).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 30
+      }
+    },
+    "7f41d": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@7f41d",
+      "displayName": "",
+      "id": "7f41d",
+      "name": "Cube_31959_575.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 31
+      }
+    },
+    "5d53a": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@5d53a",
+      "displayName": "",
+      "id": "5d53a",
+      "name": "Ground_28205_2.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 32
+      }
+    },
+    "6517f": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@6517f",
+      "displayName": "",
+      "id": "6517f",
+      "name": "Cube_31959_576.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 33
+      }
+    },
+    "74dce": {
+      "importer": "gltf-mesh",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@74dce",
+      "displayName": "",
+      "id": "74dce",
+      "name": "Ground.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 34
+      }
+    },
+    "db7d6": {
+      "importer": "gltf-embeded-image",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@db7d6",
+      "displayName": "",
+      "id": "db7d6",
+      "name": "Props.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "565cc": {
+      "importer": "gltf-embeded-image",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@565cc",
+      "displayName": "",
+      "id": "565cc",
+      "name": "SimpleCity_Texture.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "d2726": {
+      "importer": "gltf-embeded-image",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@d2726",
+      "displayName": "",
+      "id": "d2726",
+      "name": "Liberty Park_Floor-Concrete_MainTex.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "11e24": {
+      "importer": "gltf-embeded-image",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@11e24",
+      "displayName": "",
+      "id": "11e24",
+      "name": "Liberty Park_Default_Prototype_MainTex.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "cc6e5": {
+      "importer": "texture",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@cc6e5",
+      "displayName": "",
+      "id": "cc6e5",
+      "name": "Liberty Park_MilitaryProps.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@db7d6"
+      }
+    },
+    "2dca4": {
+      "importer": "texture",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@2dca4",
+      "displayName": "",
+      "id": "2dca4",
+      "name": "Liberty Park_SimpleCity_Texture.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@565cc"
+      }
+    },
+    "08a28": {
+      "importer": "texture",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@08a28",
+      "displayName": "",
+      "id": "08a28",
+      "name": "Liberty Park_Floor-Concrete.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@d2726"
+      }
+    },
+    "2649c": {
+      "importer": "texture",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@2649c",
+      "displayName": "",
+      "id": "2649c",
+      "name": "Liberty Park_Default_Prototype.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@11e24"
+      }
+    },
+    "36aaf": {
+      "importer": "gltf-scene",
+      "uuid": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@36aaf",
+      "displayName": "",
+      "id": "36aaf",
+      "name": "Liberty Park_hub.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Props.png",
+        "uri": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@db7d6"
+      },
+      {
+        "name": "SimpleCity_Texture.png",
+        "uri": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@565cc"
+      },
+      {
+        "name": "Liberty Park_Floor-Concrete_MainTex.png",
+        "uri": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@d2726"
+      },
+      {
+        "name": "Liberty Park_Default_Prototype_MainTex.png",
+        "uri": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@11e24"
+      }
+    ],
+    "redirect": "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@36aaf",
+    "assetFinder": {
+      "meshes": [
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@77a90",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@7d6ba",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@b1c14",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@1aff6",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@fcb70",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@9c811",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@8664e",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@91b08",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@87eb3",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@39d5a",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@d6d92",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@00d1b",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@c4da1",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@ff861",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@da85f",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@12c16",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@13f37",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@d9e7e",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@b322c",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@eb60b",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@5762c",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@2e511",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@672d3",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@1be79",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@2f6d1",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@78d66",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@c9e41",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@3f786",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@e691a",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@fee66",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@c0e0e",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@7f41d",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@5d53a",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@6517f",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@74dce"
+      ],
+      "skeletons": [],
+      "textures": [
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@cc6e5",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@2dca4",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@08a28",
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@2649c"
+      ],
+      "materials": [
+        "f7647d29-ac75-4929-94cd-e14de06a0a6a",
+        "5a8c6fb5-a34f-4364-8d64-b73340f392af",
+        "ccddcd6d-5d01-4943-8626-e5b1239a6b59",
+        "67381a2f-8284-4b23-b914-b7a3ff94dfd2",
+        "763feaa2-f06b-4ae1-a21a-1298c1622095",
+        "3876c7bf-2b1b-49a3-9443-7395459b3afa"
+      ],
+      "scenes": [
+        "6f7a0e1a-df5b-409e-af65-e630bd1f2e61@36aaf"
+      ]
+    },
+    "dumpMaterials": true,
+    "useVertexColors": false
+  }
+}

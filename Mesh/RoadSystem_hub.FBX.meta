@@ -1,0 +1,367 @@
+{
+  "ver": "1.3.21",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4",
+  "files": [],
+  "subMetas": {
+    "62694": {
+      "importer": "gltf-scene",
+      "uuid": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@62694",
+      "displayName": "",
+      "id": "62694",
+      "name": "RoadSystem_hub.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "89872": {
+      "importer": "gltf-mesh",
+      "uuid": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@89872",
+      "displayName": "",
+      "id": "89872",
+      "name": "hydrant_mesh (6).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      }
+    },
+    "40ce7": {
+      "importer": "gltf-mesh",
+      "uuid": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@40ce7",
+      "displayName": "",
+      "id": "40ce7",
+      "name": "Ground_31763_14.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "e925d": {
+      "importer": "gltf-mesh",
+      "uuid": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@e925d",
+      "displayName": "",
+      "id": "e925d",
+      "name": "road_cornerLines_mesh.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "74dce": {
+      "importer": "gltf-mesh",
+      "uuid": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@74dce",
+      "displayName": "",
+      "id": "74dce",
+      "name": "Ground.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "ab090": {
+      "importer": "gltf-mesh",
+      "uuid": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@ab090",
+      "displayName": "",
+      "id": "ab090",
+      "name": "Ground_31763_13.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "89cf0": {
+      "importer": "gltf-mesh",
+      "uuid": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@89cf0",
+      "displayName": "",
+      "id": "89cf0",
+      "name": "SC_Prop_Bridge_01.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "77ce9": {
+      "importer": "gltf-mesh",
+      "uuid": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@77ce9",
+      "displayName": "",
+      "id": "77ce9",
+      "name": "hydrant_mesh (7).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "9f6dd": {
+      "importer": "gltf-mesh",
+      "uuid": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@9f6dd",
+      "displayName": "",
+      "id": "9f6dd",
+      "name": "hydrant_mesh (5).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 7
+      }
+    },
+    "cbbfd": {
+      "importer": "gltf-mesh",
+      "uuid": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@cbbfd",
+      "displayName": "",
+      "id": "cbbfd",
+      "name": "hydrant_mesh (4).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 8
+      }
+    },
+    "c681e": {
+      "importer": "gltf-mesh",
+      "uuid": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@c681e",
+      "displayName": "",
+      "id": "c681e",
+      "name": "hydrant_mesh (9).mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 9
+      }
+    },
+    "917ac": {
+      "importer": "gltf-embeded-image",
+      "uuid": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@917ac",
+      "displayName": "",
+      "id": "917ac",
+      "name": "RoadSystem_Floor-Concrete.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "d34e3": {
+      "importer": "gltf-embeded-image",
+      "uuid": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@d34e3",
+      "displayName": "",
+      "id": "d34e3",
+      "name": "Road.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "db7d6": {
+      "importer": "gltf-embeded-image",
+      "uuid": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@db7d6",
+      "displayName": "",
+      "id": "db7d6",
+      "name": "Props.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "a14b4": {
+      "importer": "texture",
+      "uuid": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@a14b4",
+      "displayName": "",
+      "id": "a14b4",
+      "name": "RoadSystem_Floor-Concrete.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@917ac"
+      }
+    },
+    "1e154": {
+      "importer": "texture",
+      "uuid": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@1e154",
+      "displayName": "",
+      "id": "1e154",
+      "name": "RoadSystem_Road.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@d34e3"
+      }
+    },
+    "8c549": {
+      "importer": "texture",
+      "uuid": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@8c549",
+      "displayName": "",
+      "id": "8c549",
+      "name": "RoadSystem_Props_Street.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@db7d6"
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "RoadSystem_Floor-Concrete",
+        "uri": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@917ac"
+      },
+      {
+        "name": "Road.png",
+        "uri": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@d34e3"
+      },
+      {
+        "name": "Props.png",
+        "uri": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@db7d6"
+      }
+    ],
+    "redirect": "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@62694",
+    "assetFinder": {
+      "meshes": [
+        "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@40ce7",
+        "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@e925d",
+        "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@74dce",
+        "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@ab090",
+        "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@89cf0",
+        "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@77ce9",
+        "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@89872",
+        "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@9f6dd",
+        "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@cbbfd",
+        "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@c681e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@a14b4",
+        "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@1e154",
+        "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@8c549"
+      ],
+      "materials": [
+        "59b36f0e-354d-4c0d-9537-5ef592e89753",
+        "89224069-c1c2-410c-bf3a-f4c2054a88cc",
+        "c048a28c-bad4-418a-86d1-8eaa4f28183f",
+        "d3d9347c-2bf5-4526-b903-df8fdeba9b85",
+        "85baefe9-eb0e-45d7-805f-a3a02715c087"
+      ],
+      "scenes": [
+        "6c9971ca-6e03-44d9-8866-a7a94a6dd6d4@62694"
+      ]
+    },
+    "dumpMaterials": true,
+    "useVertexColors": false
+  }
+}

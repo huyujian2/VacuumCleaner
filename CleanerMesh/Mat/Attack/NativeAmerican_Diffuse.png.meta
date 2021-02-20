@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "3f3d1aef-680a-4c10-acaa-b2f13d8cdd8c",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "3f3d1aef-680a-4c10-acaa-b2f13d8cdd8c@6c48a",
+      "displayName": "NativeAmerican_Diffuse",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3f3d1aef-680a-4c10-acaa-b2f13d8cdd8c"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "3f3d1aef-680a-4c10-acaa-b2f13d8cdd8c@6c48a"
+  }
+}

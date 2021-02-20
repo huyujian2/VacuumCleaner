@@ -1,0 +1,443 @@
+{
+  "ver": "1.3.21",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8",
+  "files": [],
+  "subMetas": {
+    "62710": {
+      "importer": "gltf-embeded-image",
+      "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8@62710",
+      "displayName": "",
+      "id": "62710",
+      "name": "SimpleItems.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "69975": {
+      "importer": "gltf-mesh",
+      "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8@69975",
+      "displayName": "",
+      "id": "69975",
+      "name": "Prop_Draw_02.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 16
+      }
+    },
+    "c46c7": {
+      "importer": "gltf-mesh",
+      "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8@c46c7",
+      "displayName": "",
+      "id": "c46c7",
+      "name": "Items_ScrewDriver_02.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "74eef": {
+      "importer": "gltf-mesh",
+      "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8@74eef",
+      "displayName": "",
+      "id": "74eef",
+      "name": "Items_Handbag_03.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "6437d": {
+      "importer": "gltf-mesh",
+      "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8@6437d",
+      "displayName": "",
+      "id": "6437d",
+      "name": "Items_AmmoBox_01.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      }
+    },
+    "fcaf0": {
+      "importer": "gltf-mesh",
+      "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8@fcaf0",
+      "displayName": "",
+      "id": "fcaf0",
+      "name": "Items_SmartPhone_01.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      }
+    },
+    "28c37": {
+      "importer": "gltf-mesh",
+      "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8@28c37",
+      "displayName": "",
+      "id": "28c37",
+      "name": "Prop_Rug_01.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      }
+    },
+    "e7544": {
+      "importer": "gltf-mesh",
+      "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8@e7544",
+      "displayName": "",
+      "id": "e7544",
+      "name": "Prop_Small_Table_04.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      }
+    },
+    "4447f": {
+      "importer": "gltf-mesh",
+      "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8@4447f",
+      "displayName": "",
+      "id": "4447f",
+      "name": "Prop_Tv_03.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      }
+    },
+    "67e7f": {
+      "importer": "gltf-mesh",
+      "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8@67e7f",
+      "displayName": "",
+      "id": "67e7f",
+      "name": "Prop_Plant_03.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 7
+      }
+    },
+    "f2451": {
+      "importer": "gltf-mesh",
+      "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8@f2451",
+      "displayName": "",
+      "id": "f2451",
+      "name": "Prop_Game_Pad.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 8
+      }
+    },
+    "d59ed": {
+      "importer": "gltf-mesh",
+      "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8@d59ed",
+      "displayName": "",
+      "id": "d59ed",
+      "name": "Prop_Game_Console.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 9
+      }
+    },
+    "f99f0": {
+      "importer": "gltf-mesh",
+      "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8@f99f0",
+      "displayName": "",
+      "id": "f99f0",
+      "name": "Prop_Game_02.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 10
+      }
+    },
+    "6169d": {
+      "importer": "gltf-mesh",
+      "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8@6169d",
+      "displayName": "",
+      "id": "6169d",
+      "name": "Prop_SingleBed_Pink.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 11
+      }
+    },
+    "de68b": {
+      "importer": "gltf-mesh",
+      "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8@de68b",
+      "displayName": "",
+      "id": "de68b",
+      "name": "Prop_Lamp_06.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 12
+      }
+    },
+    "adbff": {
+      "importer": "gltf-mesh",
+      "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8@adbff",
+      "displayName": "",
+      "id": "adbff",
+      "name": "Prop_Wardrobe_02.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 13
+      }
+    },
+    "be954": {
+      "importer": "gltf-mesh",
+      "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8@be954",
+      "displayName": "",
+      "id": "be954",
+      "name": "Prop_BunkBed_Blue.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 14
+      }
+    },
+    "c0121": {
+      "importer": "gltf-mesh",
+      "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8@c0121",
+      "displayName": "",
+      "id": "c0121",
+      "name": "Prop_Rug_04.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 15
+      }
+    },
+    "0be83": {
+      "importer": "gltf-embeded-image",
+      "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8@0be83",
+      "displayName": "",
+      "id": "0be83",
+      "name": "SimpleInteriorsHouses.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "fe049": {
+      "importer": "texture",
+      "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8@fe049",
+      "displayName": "",
+      "id": "fe049",
+      "name": "SimpleItems.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "69f7aeed-5146-4385-b08a-4687f44c3af8@62710"
+      }
+    },
+    "798e0": {
+      "importer": "texture",
+      "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8@798e0",
+      "displayName": "",
+      "id": "798e0",
+      "name": "SimpleInteriorsHouses.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "69f7aeed-5146-4385-b08a-4687f44c3af8@0be83"
+      }
+    },
+    "9763f": {
+      "importer": "gltf-scene",
+      "uuid": "69f7aeed-5146-4385-b08a-4687f44c3af8@9763f",
+      "displayName": "",
+      "id": "9763f",
+      "name": "bedroom_subset.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "SimpleItems.png",
+        "uri": "69f7aeed-5146-4385-b08a-4687f44c3af8@62710"
+      },
+      {
+        "name": "SimpleInteriorsHouses.png",
+        "uri": "69f7aeed-5146-4385-b08a-4687f44c3af8@0be83"
+      }
+    ],
+    "redirect": "69f7aeed-5146-4385-b08a-4687f44c3af8@9763f",
+    "assetFinder": {
+      "meshes": [
+        "69f7aeed-5146-4385-b08a-4687f44c3af8@c46c7",
+        "69f7aeed-5146-4385-b08a-4687f44c3af8@74eef",
+        "69f7aeed-5146-4385-b08a-4687f44c3af8@6437d",
+        "69f7aeed-5146-4385-b08a-4687f44c3af8@fcaf0",
+        "69f7aeed-5146-4385-b08a-4687f44c3af8@28c37",
+        "69f7aeed-5146-4385-b08a-4687f44c3af8@e7544",
+        "69f7aeed-5146-4385-b08a-4687f44c3af8@4447f",
+        "69f7aeed-5146-4385-b08a-4687f44c3af8@67e7f",
+        "69f7aeed-5146-4385-b08a-4687f44c3af8@f2451",
+        "69f7aeed-5146-4385-b08a-4687f44c3af8@d59ed",
+        "69f7aeed-5146-4385-b08a-4687f44c3af8@f99f0",
+        "69f7aeed-5146-4385-b08a-4687f44c3af8@6169d",
+        "69f7aeed-5146-4385-b08a-4687f44c3af8@de68b",
+        "69f7aeed-5146-4385-b08a-4687f44c3af8@adbff",
+        "69f7aeed-5146-4385-b08a-4687f44c3af8@be954",
+        "69f7aeed-5146-4385-b08a-4687f44c3af8@c0121",
+        "69f7aeed-5146-4385-b08a-4687f44c3af8@69975"
+      ],
+      "skeletons": [],
+      "textures": [
+        "69f7aeed-5146-4385-b08a-4687f44c3af8@fe049",
+        "69f7aeed-5146-4385-b08a-4687f44c3af8@798e0"
+      ],
+      "materials": [
+        "e1943519-7710-4d05-9763-a015a08fb89c",
+        "83d23337-b680-43e8-ab22-88a054c41b48"
+      ],
+      "scenes": [
+        "69f7aeed-5146-4385-b08a-4687f44c3af8@9763f"
+      ]
+    },
+    "dumpMaterials": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "4ed27752-83c0-49d5-8739-d09ed86a2e34",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "4ed27752-83c0-49d5-8739-d09ed86a2e34@6c48a",
+      "displayName": "toga",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "4ed27752-83c0-49d5-8739-d09ed86a2e34"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "4ed27752-83c0-49d5-8739-d09ed86a2e34@6c48a"
+  }
+}

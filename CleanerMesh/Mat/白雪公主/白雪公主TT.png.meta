@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "76bd4ecb-ab26-4bf0-aa6b-1dc361699503",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "76bd4ecb-ab26-4bf0-aa6b-1dc361699503@6c48a",
+      "displayName": "白雪公主TT",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "76bd4ecb-ab26-4bf0-aa6b-1dc361699503"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "76bd4ecb-ab26-4bf0-aa6b-1dc361699503@6c48a"
+  }
+}
